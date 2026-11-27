@@ -1,7 +1,7 @@
-# Code walkthrough (interview prep)
+# Code walkthrough
 
-A simple, file-by-file explanation of the project, plus questions you may be asked and short answers.
-Read it in this order: it follows how a request travels through the app.
+A file-by-file explanation of the project, followed by the main design decisions.
+It follows the order a request travels through the app.
 
 ---
 
@@ -146,13 +146,13 @@ export async function generateStaticParams() // which [slug] values to build at 
 
 ---
 
-## Likely interview questions
+## Design decisions (FAQ)
 
 **Why headless WordPress instead of just a WordPress theme?**
 Editors keep the WordPress admin they know, but the public site gets React, static pages, better performance
 and security (the WordPress server isn't exposed to visitors, and it can even be turned off thanks to the snapshot).
 
-**How did you make sure no URL broke?**
+**How is every old URL kept working?**
 I listed every URL type WordPress creates and made a Next.js route at the same path, with `trailingSlash: true`.
 Anything that couldn't stay (old permalinks, `/?p=`) gets a 301. I tested each one with `curl` and checked the status
 code and `Location` header.
@@ -162,7 +162,7 @@ Incremental Static Regeneration: pages are built as static HTML, and after the `
 triggers a background rebuild. Visitors always get a fast cached page, and content stays fresh. I also added
 on-demand revalidation: WordPress calls `/api/revalidate/` when a post is saved.
 
-**Why did you move `/?p=123` redirects to `proxy.ts`?**
+**Why are `/?p=123` redirects in `proxy.ts`?**
 next.config redirects copy the original query string onto the new URL, so the result was `/recipes/slug/?p=123`.
 In proxy I build the URL myself, so it's clean, and the lookup is live, so new posts work too.
 
@@ -193,6 +193,6 @@ run in the browser too and can use state and events. Only `MobileMenu`, `Contact
 WordPress returns the totals in the `X-WP-Total` and `X-WP-TotalPages` response headers. I read them in `wpFetch`,
 use `totalPages` to pre-build `/recipes/page/2/` etc., and render links with the `Pagination` component.
 
-**What would you improve?**
+**Next steps**
 Draft previews with Next.js draft mode, rate limiting on the contact API, a crawl-based URL diff before launch,
 and 404 monitoring after launch.

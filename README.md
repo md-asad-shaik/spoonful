@@ -6,7 +6,7 @@ A recipe blog that started as a normal **WordPress** site and was rebuilt as a *
 
 The goal of the project: **nothing breaks during the move**. Same URLs, same SEO, same images, working forms.
 
-**Live demo:** _add your Vercel link here_ · **Migration write-up:** [MIGRATION.md](MIGRATION.md) · **Code walkthrough:** [docs/CODE-WALKTHROUGH.md](docs/CODE-WALKTHROUGH.md)
+**Live demo:** [spoonful-chi.vercel.app](https://spoonful-chi.vercel.app/) · **Migration write-up:** [MIGRATION.md](MIGRATION.md) · **Code walkthrough:** [docs/CODE-WALKTHROUGH.md](docs/CODE-WALKTHROUGH.md)
 
 ![Home page](docs/screenshots/home-desktop.png)
 
@@ -51,7 +51,7 @@ The goal of the project: **nothing breaks during the move**. Same URLs, same SEO
 **Requirements:** Node.js 20+.
 
 ```bash
-git clone https://github.com/<your-username>/spoonful.git
+git clone https://github.com/md-asad-shaik/spoonful.git
 cd spoonful
 npm install
 cp .env.example .env.local

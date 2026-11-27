@@ -11,6 +11,7 @@ const nextConfig: NextConfig = {
   // WordPress URLs end with a slash (/recipes/pancakes/). Keeping that means every
   // old URL stays exactly the same, so no redirects and no lost SEO for normal pages.
   trailingSlash: true,
+  agentRules: false,
 
   images: {
     // Allow next/image to optimise images from the WordPress media library.

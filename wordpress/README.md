@@ -76,7 +76,7 @@ wp yoast index --reindex
 
 ## 4. (Optional) Do it by hand instead
 
-If you want to show you can do it manually (good to mention in an interview):
+The same setup without the script:
 
 1. **Settings → Permalinks** → *Custom Structure* → `/recipes/%postname%/` → Save.
 2. **Settings → Reading** → *Blog pages show at most* = 6.

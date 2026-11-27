@@ -1,0 +1,3476 @@
+{
+  "generatedAt": "2026-11-27T11:56:21.588Z",
+  "source": "sample",
+  "wordpressOrigin": "http://spoonful.local",
+  "posts": [
+    {
+      "id": 112,
+      "date": "2026-11-05T16:00:00",
+      "date_gmt": "2026-11-05T16:00:00",
+      "modified": "2026-11-05T16:00:00",
+      "modified_gmt": "2026-11-05T16:00:00",
+      "slug": "no-bake-lemon-cheesecake-bars",
+      "status": "publish",
+      "type": "post",
+      "link": "http://spoonful.local/recipes/no-bake-lemon-cheesecake-bars/",
+      "title": {
+        "rendered": "No-Bake Lemon Cheesecake Bars"
+      },
+      "content": {
+        "rendered": "<p>These bars set in the fridge with no gelatin, thanks to cream cheese and whipped cream. Make them the day before a party and just slice and serve.</p>\n<p><strong>Prep:</strong> 20 min &middot; <strong>Cook:</strong> 6 hours chilling &middot; <strong>Serves:</strong> 12 bars</p>\n<h2>Ingredients</h2>\n<ul><li>200 g digestive biscuits</li><li>80 g butter, melted</li><li>400 g cream cheese, softened</li><li>1/2 cup icing sugar</li><li>Zest and juice of 2 lemons</li><li>1 cup cold whipping cream</li></ul>\n<h2>Method</h2>\n<ol><li>Crush the biscuits, mix with the melted butter and press into a lined 20 cm tin. Chill 15 minutes.</li><li>Beat the cream cheese, icing sugar, lemon zest and juice until smooth.</li><li>Whip the cream to stiff peaks and fold it into the cream cheese mix.</li><li>Spread over the base and smooth the top.</li><li>Chill for at least 6 hours, then cut into bars.</li></ol>\n<h2>Tip</h2>\n<p>Wipe the knife with a hot damp cloth between cuts for clean edges.</p>",
+        "protected": false
+      },
+      "excerpt": {
+        "rendered": "<p>A buttery biscuit base and tangy lemon filling. No oven required.</p>\n",
+        "protected": false
+      },
+      "author": 1,
+      "featured_media": 212,
+      "categories": [
+        4
+      ],
+      "tags": [
+        14,
+        16
+      ],
+      "yoast_head_json": {
+        "title": "No-Bake Lemon Cheesecake Bars (No Gelatin) | Spoonful",
+        "description": "Tangy no-bake lemon cheesecake bars on a buttery biscuit base. No oven and no gelatin, just chill overnight and slice.",
+        "robots": {
+          "index": "index",
+          "follow": "follow",
+          "max-snippet": "max-snippet:-1",
+          "max-image-preview": "max-image-preview:large",
+          "max-video-preview": "max-video-preview:-1"
+        },
+        "canonical": "http://spoonful.local/recipes/no-bake-lemon-cheesecake-bars/",
+        "og_locale": "en_US",
+        "og_type": "article",
+        "og_title": "No-Bake Lemon Cheesecake Bars (No Gelatin) | Spoonful",
+        "og_description": "Tangy no-bake lemon cheesecake bars on a buttery biscuit base. No oven and no gelatin, just chill overnight and slice.",
+        "og_url": "http://spoonful.local/recipes/no-bake-lemon-cheesecake-bars/",
+        "og_site_name": "Spoonful",
+        "article_published_time": "2026-11-05T16:00:00+00:00",
+        "article_modified_time": "2026-11-05T16:00:00+00:00",
+        "og_image": [
+          {
+            "width": 1200,
+            "height": 800,
+            "url": "http://spoonful.local/wp-content/uploads/2026/11/no-bake-lemon-cheesecake-bars.jpg",
+            "type": "image/jpeg"
+          }
+        ],
+        "twitter_card": "summary_large_image",
+        "schema": {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@type": "Article",
+              "@id": "http://spoonful.local/recipes/no-bake-lemon-cheesecake-bars/#article",
+              "headline": "No-Bake Lemon Cheesecake Bars",
+              "datePublished": "2026-11-05T16:00:00+00:00",
+              "dateModified": "2026-11-05T16:00:00+00:00",
+              "mainEntityOfPage": {
+                "@id": "http://spoonful.local/recipes/no-bake-lemon-cheesecake-bars/"
+              },
+              "image": {
+                "@id": "http://spoonful.local/recipes/no-bake-lemon-cheesecake-bars/#primaryimage"
+              },
+              "isPartOf": {
+                "@id": "http://spoonful.local/recipes/no-bake-lemon-cheesecake-bars/"
+              },
+              "inLanguage": "en-US"
+            },
+            {
+              "@type": "WebPage",
+              "@id": "http://spoonful.local/recipes/no-bake-lemon-cheesecake-bars/",
+              "url": "http://spoonful.local/recipes/no-bake-lemon-cheesecake-bars/",
+              "name": "No-Bake Lemon Cheesecake Bars (No Gelatin) | Spoonful",
+              "isPartOf": {
+                "@id": "http://spoonful.local/#website"
+              },
+              "description": "Tangy no-bake lemon cheesecake bars on a buttery biscuit base. No oven and no gelatin, just chill overnight and slice.",
+              "breadcrumb": {
+                "@id": "http://spoonful.local/recipes/no-bake-lemon-cheesecake-bars/#breadcrumb"
+              },
+              "inLanguage": "en-US"
+            },
+            {
+              "@type": "BreadcrumbList",
+              "@id": "http://spoonful.local/recipes/no-bake-lemon-cheesecake-bars/#breadcrumb",
+              "itemListElement": [
+                {
+                  "@type": "ListItem",
+                  "position": 1,
+                  "name": "Home",
+                  "item": "http://spoonful.local/"
+                },
+                {
+                  "@type": "ListItem",
+                  "position": 2,
+                  "name": "No-Bake Lemon Cheesecake Bars"
+                }
+              ]
+            },
+            {
+              "@type": "WebSite",
+              "@id": "http://spoonful.local/#website",
+              "url": "http://spoonful.local/",
+              "name": "Spoonful",
+              "description": "Simple home cooking, one spoonful at a time",
+              "inLanguage": "en-US"
+            }
+          ]
+        }
+      },
+      "_embedded": {
+        "wp:featuredmedia": [
+          {
+            "id": 212,
+            "date": "2026-11-05T16:00:00",
+            "slug": "no-bake-lemon-cheesecake-bars-image",
+            "type": "attachment",
+            "link": "http://spoonful.local/recipes/no-bake-lemon-cheesecake-bars/no-bake-lemon-cheesecake-bars-image/",
+            "title": {
+              "rendered": "No-Bake Lemon Cheesecake Bars"
+            },
+            "alt_text": "Creamy lemon cheesecake bars on a biscuit base with lemon zest",
+            "media_type": "image",
+            "mime_type": "image/jpeg",
+            "media_details": {
+              "width": 1200,
+              "height": 800,
+              "file": "2026/11/no-bake-lemon-cheesecake-bars.jpg",
+              "sizes": {}
+            },
+            "source_url": "http://spoonful.local/wp-content/uploads/2026/11/no-bake-lemon-cheesecake-bars.jpg"
+          }
+        ],
+        "wp:term": [
+          [
+            {
+              "id": 4,
+              "link": "http://spoonful.local/category/desserts/",
+              "name": "Desserts",
+              "slug": "desserts",
+              "taxonomy": "category"
+            }
+          ],
+          [
+            {
+              "id": 14,
+              "link": "http://spoonful.local/tag/make-ahead/",
+              "name": "Make Ahead",
+              "slug": "make-ahead",
+              "taxonomy": "post_tag"
+            },
+            {
+              "id": 16,
+              "link": "http://spoonful.local/tag/no-bake/",
+              "name": "No Bake",
+              "slug": "no-bake",
+              "taxonomy": "post_tag"
+            }
+          ]
+        ]
+      }
+    },
+    {
+      "id": 111,
+      "date": "2026-11-02T16:00:00",
+      "date_gmt": "2026-11-02T16:00:00",
+      "modified": "2026-11-02T16:00:00",
+      "modified_gmt": "2026-11-02T16:00:00",
+      "slug": "soft-gulab-jamun",
+      "status": "publish",
+      "type": "post",
+      "link": "http://spoonful.local/recipes/soft-gulab-jamun/",
+      "title": {
+        "rendered": "Soft Gulab Jamun"
+      },
+      "content": {
+        "rendered": "<p>Gulab jamun made with milk powder are easier than the traditional khoya version and just as soft. Fry them slowly so they cook all the way through.</p>\n<p><strong>Prep:</strong> 20 min &middot; <strong>Cook:</strong> 20 min &middot; <strong>Serves:</strong> 20 pieces</p>\n<h2>Ingredients</h2>\n<ul><li>1 cup milk powder</li><li>1/4 cup all-purpose flour</li><li>1/4 tsp baking soda</li><li>2 tbsp ghee</li><li>4 to 5 tbsp milk</li><li>1 1/2 cups sugar</li><li>1 1/2 cups water</li><li>4 cardamom pods, crushed</li><li>1 tsp rose water</li><li>Oil for frying</li></ul>\n<h2>Method</h2>\n<ol><li>Boil the sugar, water and cardamom for 5 minutes. Turn off the heat and add the rose water.</li><li>Mix the milk powder, flour and baking soda. Rub in the ghee.</li><li>Add milk a spoon at a time to make a soft, smooth dough. Rest 5 minutes.</li><li>Roll into small crack-free balls.</li><li>Fry on low heat, stirring gently, until deep golden brown, about 6 minutes.</li><li>Drop the hot jamuns into the warm syrup and soak for at least 1 hour.</li></ol>\n<h2>Tip</h2>\n<p>If the oil is too hot, the outside browns before the inside cooks. Low and slow is the rule.</p>",
+        "protected": false
+      },
+      "excerpt": {
+        "rendered": "<p>Melt-in-the-mouth milk dumplings soaked in rose and cardamom syrup.</p>\n",
+        "protected": false
+      },
+      "author": 1,
+      "featured_media": 211,
+      "categories": [
+        4
+      ],
+      "tags": [
+        10,
+        13
+      ],
+      "yoast_head_json": {
+        "title": "Soft Gulab Jamun with Milk Powder | Spoonful",
+        "description": "Soft, melt-in-the-mouth gulab jamun made with milk powder and soaked in rose cardamom syrup. Easy tips so they never crack.",
+        "robots": {
+          "index": "index",
+          "follow": "follow",
+          "max-snippet": "max-snippet:-1",
+          "max-image-preview": "max-image-preview:large",
+          "max-video-preview": "max-video-preview:-1"
+        },
+        "canonical": "http://spoonful.local/recipes/soft-gulab-jamun/",
+        "og_locale": "en_US",
+        "og_type": "article",
+        "og_title": "Soft Gulab Jamun with Milk Powder | Spoonful",
+        "og_description": "Soft, melt-in-the-mouth gulab jamun made with milk powder and soaked in rose cardamom syrup. Easy tips so they never crack.",
+        "og_url": "http://spoonful.local/recipes/soft-gulab-jamun/",
+        "og_site_name": "Spoonful",
+        "article_published_time": "2026-11-02T16:00:00+00:00",
+        "article_modified_time": "2026-11-02T16:00:00+00:00",
+        "og_image": [
+          {
+            "width": 1200,
+            "height": 800,
+            "url": "http://spoonful.local/wp-content/uploads/2026/11/soft-gulab-jamun.jpg",
+            "type": "image/jpeg"
+          }
+        ],
+        "twitter_card": "summary_large_image",
+        "schema": {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@type": "Article",
+              "@id": "http://spoonful.local/recipes/soft-gulab-jamun/#article",
+              "headline": "Soft Gulab Jamun",
+              "datePublished": "2026-11-02T16:00:00+00:00",
+              "dateModified": "2026-11-02T16:00:00+00:00",
+              "mainEntityOfPage": {
+                "@id": "http://spoonful.local/recipes/soft-gulab-jamun/"
+              },
+              "image": {
+                "@id": "http://spoonful.local/recipes/soft-gulab-jamun/#primaryimage"
+              },
+              "isPartOf": {
+                "@id": "http://spoonful.local/recipes/soft-gulab-jamun/"
+              },
+              "inLanguage": "en-US"
+            },
+            {
+              "@type": "WebPage",
+              "@id": "http://spoonful.local/recipes/soft-gulab-jamun/",
+              "url": "http://spoonful.local/recipes/soft-gulab-jamun/",
+              "name": "Soft Gulab Jamun with Milk Powder | Spoonful",
+              "isPartOf": {
+                "@id": "http://spoonful.local/#website"
+              },
+              "description": "Soft, melt-in-the-mouth gulab jamun made with milk powder and soaked in rose cardamom syrup. Easy tips so they never crack.",
+              "breadcrumb": {
+                "@id": "http://spoonful.local/recipes/soft-gulab-jamun/#breadcrumb"
+              },
+              "inLanguage": "en-US"
+            },
+            {
+              "@type": "BreadcrumbList",
+              "@id": "http://spoonful.local/recipes/soft-gulab-jamun/#breadcrumb",
+              "itemListElement": [
+                {
+                  "@type": "ListItem",
+                  "position": 1,
+                  "name": "Home",
+                  "item": "http://spoonful.local/"
+                },
+                {
+                  "@type": "ListItem",
+                  "position": 2,
+                  "name": "Soft Gulab Jamun"
+                }
+              ]
+            },
+            {
+              "@type": "WebSite",
+              "@id": "http://spoonful.local/#website",
+              "url": "http://spoonful.local/",
+              "name": "Spoonful",
+              "description": "Simple home cooking, one spoonful at a time",
+              "inLanguage": "en-US"
+            }
+          ]
+        }
+      },
+      "_embedded": {
+        "wp:featuredmedia": [
+          {
+            "id": 211,
+            "date": "2026-11-02T16:00:00",
+            "slug": "soft-gulab-jamun-image",
+            "type": "attachment",
+            "link": "http://spoonful.local/recipes/soft-gulab-jamun/soft-gulab-jamun-image/",
+            "title": {
+              "rendered": "Soft Gulab Jamun"
+            },
+            "alt_text": "Soft gulab jamun soaking in rose and cardamom sugar syrup",
+            "media_type": "image",
+            "mime_type": "image/jpeg",
+            "media_details": {
+              "width": 1200,
+              "height": 800,
+              "file": "2026/11/soft-gulab-jamun.jpg",
+              "sizes": {}
+            },
+            "source_url": "http://spoonful.local/wp-content/uploads/2026/11/soft-gulab-jamun.jpg"
+          }
+        ],
+        "wp:term": [
+          [
+            {
+              "id": 4,
+              "link": "http://spoonful.local/category/desserts/",
+              "name": "Desserts",
+              "slug": "desserts",
+              "taxonomy": "category"
+            }
+          ],
+          [
+            {
+              "id": 10,
+              "link": "http://spoonful.local/tag/vegetarian/",
+              "name": "Vegetarian",
+              "slug": "vegetarian",
+              "taxonomy": "post_tag"
+            },
+            {
+              "id": 13,
+              "link": "http://spoonful.local/tag/indian/",
+              "name": "Indian",
+              "slug": "indian",
+              "taxonomy": "post_tag"
+            }
+          ]
+        ]
+      }
+    },
+    {
+      "id": 110,
+      "date": "2026-10-30T16:00:00",
+      "date_gmt": "2026-10-30T16:00:00",
+      "modified": "2026-10-30T16:00:00",
+      "modified_gmt": "2026-10-30T16:00:00",
+      "slug": "mango-lassi-popsicles",
+      "status": "publish",
+      "type": "post",
+      "link": "http://spoonful.local/recipes/mango-lassi-popsicles/",
+      "title": {
+        "rendered": "Mango Lassi Popsicles"
+      },
+      "content": {
+        "rendered": "<p>Everything you love about a mango lassi, frozen on a stick. Use ripe Alphonso mangoes if you can find them, or good canned mango pulp.</p>\n<p><strong>Prep:</strong> 10 min &middot; <strong>Cook:</strong> 6 hours freezing &middot; <strong>Serves:</strong> 8 popsicles</p>\n<h2>Ingredients</h2>\n<ul><li>2 cups ripe mango, chopped (or mango pulp)</li><li>1 cup thick plain yoghurt</li><li>2 tbsp honey</li><li>A pinch of cardamom powder</li></ul>\n<h2>Method</h2>\n<ol><li>Blend the mango, yoghurt, honey and cardamom until smooth.</li><li>Taste and add more honey if your mangoes are not very sweet.</li><li>Pour into popsicle moulds and add sticks.</li><li>Freeze for at least 6 hours. Run the moulds under warm water to release.</li></ol>\n<h2>Tip</h2>\n<p>Leave a little space at the top of each mould. The mix expands as it freezes.</p>",
+        "protected": false
+      },
+      "excerpt": {
+        "rendered": "<p>Three ingredients, no cooking, and the creamiest frozen treat of summer.</p>\n",
+        "protected": false
+      },
+      "author": 1,
+      "featured_media": 210,
+      "categories": [
+        4
+      ],
+      "tags": [
+        13,
+        14,
+        15,
+        16
+      ],
+      "yoast_head_json": {
+        "title": "Mango Lassi Popsicles (3 Ingredients) | Spoonful",
+        "description": "Creamy mango lassi popsicles made with just mango, yoghurt and honey. A no-bake, kid-friendly summer dessert.",
+        "robots": {
+          "index": "index",
+          "follow": "follow",
+          "max-snippet": "max-snippet:-1",
+          "max-image-preview": "max-image-preview:large",
+          "max-video-preview": "max-video-preview:-1"
+        },
+        "canonical": "http://spoonful.local/recipes/mango-lassi-popsicles/",
+        "og_locale": "en_US",
+        "og_type": "article",
+        "og_title": "Mango Lassi Popsicles (3 Ingredients) | Spoonful",
+        "og_description": "Creamy mango lassi popsicles made with just mango, yoghurt and honey. A no-bake, kid-friendly summer dessert.",
+        "og_url": "http://spoonful.local/recipes/mango-lassi-popsicles/",
+        "og_site_name": "Spoonful",
+        "article_published_time": "2026-10-30T16:00:00+00:00",
+        "article_modified_time": "2026-10-30T16:00:00+00:00",
+        "og_image": [
+          {
+            "width": 1200,
+            "height": 800,
+            "url": "http://spoonful.local/wp-content/uploads/2026/11/mango-lassi-popsicles.jpg",
+            "type": "image/jpeg"
+          }
+        ],
+        "twitter_card": "summary_large_image",
+        "schema": {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@type": "Article",
+              "@id": "http://spoonful.local/recipes/mango-lassi-popsicles/#article",
+              "headline": "Mango Lassi Popsicles",
+              "datePublished": "2026-10-30T16:00:00+00:00",
+              "dateModified": "2026-10-30T16:00:00+00:00",
+              "mainEntityOfPage": {
+                "@id": "http://spoonful.local/recipes/mango-lassi-popsicles/"
+              },
+              "image": {
+                "@id": "http://spoonful.local/recipes/mango-lassi-popsicles/#primaryimage"
+              },
+              "isPartOf": {
+                "@id": "http://spoonful.local/recipes/mango-lassi-popsicles/"
+              },
+              "inLanguage": "en-US"
+            },
+            {
+              "@type": "WebPage",
+              "@id": "http://spoonful.local/recipes/mango-lassi-popsicles/",
+              "url": "http://spoonful.local/recipes/mango-lassi-popsicles/",
+              "name": "Mango Lassi Popsicles (3 Ingredients) | Spoonful",
+              "isPartOf": {
+                "@id": "http://spoonful.local/#website"
+              },
+              "description": "Creamy mango lassi popsicles made with just mango, yoghurt and honey. A no-bake, kid-friendly summer dessert.",
+              "breadcrumb": {
+                "@id": "http://spoonful.local/recipes/mango-lassi-popsicles/#breadcrumb"
+              },
+              "inLanguage": "en-US"
+            },
+            {
+              "@type": "BreadcrumbList",
+              "@id": "http://spoonful.local/recipes/mango-lassi-popsicles/#breadcrumb",
+              "itemListElement": [
+                {
+                  "@type": "ListItem",
+                  "position": 1,
+                  "name": "Home",
+                  "item": "http://spoonful.local/"
+                },
+                {
+                  "@type": "ListItem",
+                  "position": 2,
+                  "name": "Mango Lassi Popsicles"
+                }
+              ]
+            },
+            {
+              "@type": "WebSite",
+              "@id": "http://spoonful.local/#website",
+              "url": "http://spoonful.local/",
+              "name": "Spoonful",
+              "description": "Simple home cooking, one spoonful at a time",
+              "inLanguage": "en-US"
+            }
+          ]
+        }
+      },
+      "_embedded": {
+        "wp:featuredmedia": [
+          {
+            "id": 210,
+            "date": "2026-10-30T16:00:00",
+            "slug": "mango-lassi-popsicles-image",
+            "type": "attachment",
+            "link": "http://spoonful.local/recipes/mango-lassi-popsicles/mango-lassi-popsicles-image/",
+            "title": {
+              "rendered": "Mango Lassi Popsicles"
+            },
+            "alt_text": "Bright orange mango lassi popsicles on a tray with sliced mango",
+            "media_type": "image",
+            "mime_type": "image/jpeg",
+            "media_details": {
+              "width": 1200,
+              "height": 800,
+              "file": "2026/11/mango-lassi-popsicles.jpg",
+              "sizes": {}
+            },
+            "source_url": "http://spoonful.local/wp-content/uploads/2026/11/mango-lassi-popsicles.jpg"
+          }
+        ],
+        "wp:term": [
+          [
+            {
+              "id": 4,
+              "link": "http://spoonful.local/category/desserts/",
+              "name": "Desserts",
+              "slug": "desserts",
+              "taxonomy": "category"
+            }
+          ],
+          [
+            {
+              "id": 13,
+              "link": "http://spoonful.local/tag/indian/",
+              "name": "Indian",
+              "slug": "indian",
+              "taxonomy": "post_tag"
+            },
+            {
+              "id": 14,
+              "link": "http://spoonful.local/tag/make-ahead/",
+              "name": "Make Ahead",
+              "slug": "make-ahead",
+              "taxonomy": "post_tag"
+            },
+            {
+              "id": 15,
+              "link": "http://spoonful.local/tag/kid-friendly/",
+              "name": "Kid Friendly",
+              "slug": "kid-friendly",
+              "taxonomy": "post_tag"
+            },
+            {
+              "id": 16,
+              "link": "http://spoonful.local/tag/no-bake/",
+              "name": "No Bake",
+              "slug": "no-bake",
+              "taxonomy": "post_tag"
+            }
+          ]
+        ]
+      }
+    },
+    {
+      "id": 109,
+      "date": "2026-10-27T16:00:00",
+      "date_gmt": "2026-10-27T16:00:00",
+      "modified": "2026-10-27T16:00:00",
+      "modified_gmt": "2026-10-27T16:00:00",
+      "slug": "classic-chocolate-brownies",
+      "status": "publish",
+      "type": "post",
+      "link": "http://spoonful.local/recipes/classic-chocolate-brownies/",
+      "title": {
+        "rendered": "Classic Chocolate Brownies"
+      },
+      "content": {
+        "rendered": "<p>The secret to the crackly top is whisking the sugar and eggs hard for a full minute. The secret to fudgy middles is taking them out of the oven a little early.</p>\n<p><strong>Prep:</strong> 15 min &middot; <strong>Cook:</strong> 25 min &middot; <strong>Serves:</strong> 16 squares</p>\n<h2>Ingredients</h2>\n<ul><li>200 g dark chocolate</li><li>150 g butter</li><li>1 1/4 cups sugar</li><li>3 eggs</li><li>1 tsp vanilla extract</li><li>3/4 cup all-purpose flour</li><li>1/4 cup cocoa powder</li><li>1/2 tsp salt</li></ul>\n<h2>Method</h2>\n<ol><li>Heat the oven to 180°C and line a 20 cm square tin.</li><li>Melt the chocolate and butter together, then cool for 5 minutes.</li><li>Whisk the sugar, eggs and vanilla hard for 1 minute until pale.</li><li>Whisk in the chocolate mix, then fold in the flour, cocoa and salt.</li><li>Bake 22 to 25 minutes until the centre is just set. Cool completely before cutting.</li></ol>\n<h2>Tip</h2>\n<p>Cool the brownies fully, even overnight, for clean squares.</p>",
+        "protected": false
+      },
+      "excerpt": {
+        "rendered": "<p>Fudgy, rich, one-bowl brownies with that shiny crackly top.</p>\n",
+        "protected": false
+      },
+      "author": 1,
+      "featured_media": 209,
+      "categories": [
+        4
+      ],
+      "tags": [
+        10,
+        15
+      ],
+      "yoast_head_json": {
+        "title": "Fudgy Chocolate Brownies with a Crackly Top | Spoonful",
+        "description": "Rich, fudgy chocolate brownies with a shiny crackly top, made in one bowl. The only brownie recipe you need.",
+        "robots": {
+          "index": "index",
+          "follow": "follow",
+          "max-snippet": "max-snippet:-1",
+          "max-image-preview": "max-image-preview:large",
+          "max-video-preview": "max-video-preview:-1"
+        },
+        "canonical": "http://spoonful.local/recipes/classic-chocolate-brownies/",
+        "og_locale": "en_US",
+        "og_type": "article",
+        "og_title": "Fudgy Chocolate Brownies with a Crackly Top | Spoonful",
+        "og_description": "Rich, fudgy chocolate brownies with a shiny crackly top, made in one bowl. The only brownie recipe you need.",
+        "og_url": "http://spoonful.local/recipes/classic-chocolate-brownies/",
+        "og_site_name": "Spoonful",
+        "article_published_time": "2026-10-27T16:00:00+00:00",
+        "article_modified_time": "2026-10-27T16:00:00+00:00",
+        "og_image": [
+          {
+            "width": 1200,
+            "height": 800,
+            "url": "http://spoonful.local/wp-content/uploads/2026/11/classic-chocolate-brownies.jpg",
+            "type": "image/jpeg"
+          }
+        ],
+        "twitter_card": "summary_large_image",
+        "schema": {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@type": "Article",
+              "@id": "http://spoonful.local/recipes/classic-chocolate-brownies/#article",
+              "headline": "Classic Chocolate Brownies",
+              "datePublished": "2026-10-27T16:00:00+00:00",
+              "dateModified": "2026-10-27T16:00:00+00:00",
+              "mainEntityOfPage": {
+                "@id": "http://spoonful.local/recipes/classic-chocolate-brownies/"
+              },
+              "image": {
+                "@id": "http://spoonful.local/recipes/classic-chocolate-brownies/#primaryimage"
+              },
+              "isPartOf": {
+                "@id": "http://spoonful.local/recipes/classic-chocolate-brownies/"
+              },
+              "inLanguage": "en-US"
+            },
+            {
+              "@type": "WebPage",
+              "@id": "http://spoonful.local/recipes/classic-chocolate-brownies/",
+              "url": "http://spoonful.local/recipes/classic-chocolate-brownies/",
+              "name": "Fudgy Chocolate Brownies with a Crackly Top | Spoonful",
+              "isPartOf": {
+                "@id": "http://spoonful.local/#website"
+              },
+              "description": "Rich, fudgy chocolate brownies with a shiny crackly top, made in one bowl. The only brownie recipe you need.",
+              "breadcrumb": {
+                "@id": "http://spoonful.local/recipes/classic-chocolate-brownies/#breadcrumb"
+              },
+              "inLanguage": "en-US"
+            },
+            {
+              "@type": "BreadcrumbList",
+              "@id": "http://spoonful.local/recipes/classic-chocolate-brownies/#breadcrumb",
+              "itemListElement": [
+                {
+                  "@type": "ListItem",
+                  "position": 1,
+                  "name": "Home",
+                  "item": "http://spoonful.local/"
+                },
+                {
+                  "@type": "ListItem",
+                  "position": 2,
+                  "name": "Classic Chocolate Brownies"
+                }
+              ]
+            },
+            {
+              "@type": "WebSite",
+              "@id": "http://spoonful.local/#website",
+              "url": "http://spoonful.local/",
+              "name": "Spoonful",
+              "description": "Simple home cooking, one spoonful at a time",
+              "inLanguage": "en-US"
+            }
+          ]
+        }
+      },
+      "_embedded": {
+        "wp:featuredmedia": [
+          {
+            "id": 209,
+            "date": "2026-10-27T16:00:00",
+            "slug": "classic-chocolate-brownies-image",
+            "type": "attachment",
+            "link": "http://spoonful.local/recipes/classic-chocolate-brownies/classic-chocolate-brownies-image/",
+            "title": {
+              "rendered": "Classic Chocolate Brownies"
+            },
+            "alt_text": "Squares of fudgy chocolate brownies with a crackly top",
+            "media_type": "image",
+            "mime_type": "image/jpeg",
+            "media_details": {
+              "width": 1200,
+              "height": 800,
+              "file": "2026/11/classic-chocolate-brownies.jpg",
+              "sizes": {}
+            },
+            "source_url": "http://spoonful.local/wp-content/uploads/2026/11/classic-chocolate-brownies.jpg"
+          }
+        ],
+        "wp:term": [
+          [
+            {
+              "id": 4,
+              "link": "http://spoonful.local/category/desserts/",
+              "name": "Desserts",
+              "slug": "desserts",
+              "taxonomy": "category"
+            }
+          ],
+          [
+            {
+              "id": 10,
+              "link": "http://spoonful.local/tag/vegetarian/",
+              "name": "Vegetarian",
+              "slug": "vegetarian",
+              "taxonomy": "post_tag"
+            },
+            {
+              "id": 15,
+              "link": "http://spoonful.local/tag/kid-friendly/",
+              "name": "Kid Friendly",
+              "slug": "kid-friendly",
+              "taxonomy": "post_tag"
+            }
+          ]
+        ]
+      }
+    },
+    {
+      "id": 108,
+      "date": "2026-10-24T12:00:00",
+      "date_gmt": "2026-10-24T12:00:00",
+      "modified": "2026-10-24T12:00:00",
+      "modified_gmt": "2026-10-24T12:00:00",
+      "slug": "mediterranean-chickpea-salad",
+      "status": "publish",
+      "type": "post",
+      "link": "http://spoonful.local/recipes/mediterranean-chickpea-salad/",
+      "title": {
+        "rendered": "Mediterranean Chickpea Salad"
+      },
+      "content": {
+        "rendered": "<p>This salad is made for meal prep. Chickpeas soak up the lemony dressing and the vegetables stay crunchy for days.</p>\n<p><strong>Prep:</strong> 15 min &middot; <strong>Cook:</strong> 0 min &middot; <strong>Serves:</strong> 4</p>\n<h2>Ingredients</h2>\n<ul><li>2 cans (400 g each) chickpeas, drained</li><li>1 cucumber, diced</li><li>2 tomatoes, diced</li><li>1/2 red onion, finely chopped</li><li>1/2 cup olives, halved</li><li>100 g feta, crumbled</li><li>3 tbsp olive oil</li><li>2 tbsp lemon juice</li><li>1 tsp dried oregano</li><li>Salt and pepper</li></ul>\n<h2>Method</h2>\n<ol><li>Whisk the olive oil, lemon juice, oregano, salt and pepper in a large bowl.</li><li>Add the chickpeas and toss to coat.</li><li>Add the cucumber, tomato, onion and olives.</li><li>Top with feta just before serving.</li></ol>\n<h2>Tip</h2>\n<p>If packing for later, keep the feta separate so it stays creamy.</p>",
+        "protected": false
+      },
+      "excerpt": {
+        "rendered": "<p>A crunchy, high-protein salad that tastes even better the next day.</p>\n",
+        "protected": false
+      },
+      "author": 1,
+      "featured_media": 208,
+      "categories": [
+        3
+      ],
+      "tags": [
+        10,
+        11,
+        12,
+        14,
+        16
+      ],
+      "yoast_head_json": {
+        "title": "Mediterranean Chickpea Salad (High Protein, No Cook) | Spoonful",
+        "description": "A crunchy no-cook Mediterranean chickpea salad with cucumber, tomato, olives and feta. High in protein and keeps for 3 days in the fridge.",
+        "robots": {
+          "index": "index",
+          "follow": "follow",
+          "max-snippet": "max-snippet:-1",
+          "max-image-preview": "max-image-preview:large",
+          "max-video-preview": "max-video-preview:-1"
+        },
+        "canonical": "http://spoonful.local/recipes/mediterranean-chickpea-salad/",
+        "og_locale": "en_US",
+        "og_type": "article",
+        "og_title": "Mediterranean Chickpea Salad (High Protein, No Cook) | Spoonful",
+        "og_description": "A crunchy no-cook Mediterranean chickpea salad with cucumber, tomato, olives and feta. High in protein and keeps for 3 days in the fridge.",
+        "og_url": "http://spoonful.local/recipes/mediterranean-chickpea-salad/",
+        "og_site_name": "Spoonful",
+        "article_published_time": "2026-10-24T12:00:00+00:00",
+        "article_modified_time": "2026-10-24T12:00:00+00:00",
+        "og_image": [
+          {
+            "width": 1200,
+            "height": 800,
+            "url": "http://spoonful.local/wp-content/uploads/2026/11/mediterranean-chickpea-salad.jpg",
+            "type": "image/jpeg"
+          }
+        ],
+        "twitter_card": "summary_large_image",
+        "schema": {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@type": "Article",
+              "@id": "http://spoonful.local/recipes/mediterranean-chickpea-salad/#article",
+              "headline": "Mediterranean Chickpea Salad",
+              "datePublished": "2026-10-24T12:00:00+00:00",
+              "dateModified": "2026-10-24T12:00:00+00:00",
+              "mainEntityOfPage": {
+                "@id": "http://spoonful.local/recipes/mediterranean-chickpea-salad/"
+              },
+              "image": {
+                "@id": "http://spoonful.local/recipes/mediterranean-chickpea-salad/#primaryimage"
+              },
+              "isPartOf": {
+                "@id": "http://spoonful.local/recipes/mediterranean-chickpea-salad/"
+              },
+              "inLanguage": "en-US"
+            },
+            {
+              "@type": "WebPage",
+              "@id": "http://spoonful.local/recipes/mediterranean-chickpea-salad/",
+              "url": "http://spoonful.local/recipes/mediterranean-chickpea-salad/",
+              "name": "Mediterranean Chickpea Salad (High Protein, No Cook) | Spoonful",
+              "isPartOf": {
+                "@id": "http://spoonful.local/#website"
+              },
+              "description": "A crunchy no-cook Mediterranean chickpea salad with cucumber, tomato, olives and feta. High in protein and keeps for 3 days in the fridge.",
+              "breadcrumb": {
+                "@id": "http://spoonful.local/recipes/mediterranean-chickpea-salad/#breadcrumb"
+              },
+              "inLanguage": "en-US"
+            },
+            {
+              "@type": "BreadcrumbList",
+              "@id": "http://spoonful.local/recipes/mediterranean-chickpea-salad/#breadcrumb",
+              "itemListElement": [
+                {
+                  "@type": "ListItem",
+                  "position": 1,
+                  "name": "Home",
+                  "item": "http://spoonful.local/"
+                },
+                {
+                  "@type": "ListItem",
+                  "position": 2,
+                  "name": "Mediterranean Chickpea Salad"
+                }
+              ]
+            },
+            {
+              "@type": "WebSite",
+              "@id": "http://spoonful.local/#website",
+              "url": "http://spoonful.local/",
+              "name": "Spoonful",
+              "description": "Simple home cooking, one spoonful at a time",
+              "inLanguage": "en-US"
+            }
+          ]
+        }
+      },
+      "_embedded": {
+        "wp:featuredmedia": [
+          {
+            "id": 208,
+            "date": "2026-10-24T12:00:00",
+            "slug": "mediterranean-chickpea-salad-image",
+            "type": "attachment",
+            "link": "http://spoonful.local/recipes/mediterranean-chickpea-salad/mediterranean-chickpea-salad-image/",
+            "title": {
+              "rendered": "Mediterranean Chickpea Salad"
+            },
+            "alt_text": "A bowl of chickpea salad with cucumber, tomato, red onion, olives and feta",
+            "media_type": "image",
+            "mime_type": "image/jpeg",
+            "media_details": {
+              "width": 1200,
+              "height": 800,
+              "file": "2026/11/mediterranean-chickpea-salad.jpg",
+              "sizes": {}
+            },
+            "source_url": "http://spoonful.local/wp-content/uploads/2026/11/mediterranean-chickpea-salad.jpg"
+          }
+        ],
+        "wp:term": [
+          [
+            {
+              "id": 3,
+              "link": "http://spoonful.local/category/lunch/",
+              "name": "Lunch",
+              "slug": "lunch",
+              "taxonomy": "category"
+            }
+          ],
+          [
+            {
+              "id": 10,
+              "link": "http://spoonful.local/tag/vegetarian/",
+              "name": "Vegetarian",
+              "slug": "vegetarian",
+              "taxonomy": "post_tag"
+            },
+            {
+              "id": 11,
+              "link": "http://spoonful.local/tag/quick/",
+              "name": "Quick",
+              "slug": "quick",
+              "taxonomy": "post_tag"
+            },
+            {
+              "id": 12,
+              "link": "http://spoonful.local/tag/healthy/",
+              "name": "Healthy",
+              "slug": "healthy",
+              "taxonomy": "post_tag"
+            },
+            {
+              "id": 14,
+              "link": "http://spoonful.local/tag/make-ahead/",
+              "name": "Make Ahead",
+              "slug": "make-ahead",
+              "taxonomy": "post_tag"
+            },
+            {
+              "id": 16,
+              "link": "http://spoonful.local/tag/no-bake/",
+              "name": "No Bake",
+              "slug": "no-bake",
+              "taxonomy": "post_tag"
+            }
+          ]
+        ]
+      }
+    },
+    {
+      "id": 107,
+      "date": "2026-10-21T12:00:00",
+      "date_gmt": "2026-10-21T12:00:00",
+      "modified": "2026-10-21T12:00:00",
+      "modified_gmt": "2026-10-21T12:00:00",
+      "slug": "paneer-tikka-wrap",
+      "status": "publish",
+      "type": "post",
+      "link": "http://spoonful.local/recipes/paneer-tikka-wrap/",
+      "title": {
+        "rendered": "Paneer Tikka Wrap"
+      },
+      "content": {
+        "rendered": "<p>All the flavour of restaurant paneer tikka, made in a frying pan and rolled into a wrap you can take to work.</p>\n<p><strong>Prep:</strong> 15 min &middot; <strong>Cook:</strong> 10 min &middot; <strong>Serves:</strong> 2</p>\n<h2>Ingredients</h2>\n<ul><li>200 g paneer, cubed</li><li>3 tbsp thick yoghurt</li><li>1 tsp tikka masala</li><li>1/2 tsp red chilli powder</li><li>1 tsp lemon juice</li><li>1 red onion, sliced</li><li>2 tortillas or rotis</li><li>3 tbsp mint chutney</li><li>1 tbsp oil</li></ul>\n<h2>Method</h2>\n<ol><li>Mix the yoghurt, tikka masala, chilli powder, lemon juice and a pinch of salt. Coat the paneer.</li><li>Heat the oil in a pan on high heat and sear the paneer until charred on all sides.</li><li>Warm the tortillas in a dry pan.</li><li>Spread mint chutney on each tortilla, add the paneer and onion, and roll tightly.</li><li>Cut in half and serve, or wrap in foil to pack.</li></ol>\n<h2>Tip</h2>\n<p>Pat the paneer dry before marinating so the marinade sticks.</p>",
+        "protected": false
+      },
+      "excerpt": {
+        "rendered": "<p>Smoky pan-charred paneer, crunchy onions and mint chutney in a soft wrap.</p>\n",
+        "protected": false
+      },
+      "author": 1,
+      "featured_media": 207,
+      "categories": [
+        3
+      ],
+      "tags": [
+        10,
+        13,
+        17
+      ],
+      "yoast_head_json": {
+        "title": "Paneer Tikka Wrap with Mint Chutney | Spoonful",
+        "description": "Smoky pan-charred paneer tikka rolled in a soft wrap with onions and mint chutney. A filling vegetarian lunch that packs well.",
+        "robots": {
+          "index": "index",
+          "follow": "follow",
+          "max-snippet": "max-snippet:-1",
+          "max-image-preview": "max-image-preview:large",
+          "max-video-preview": "max-video-preview:-1"
+        },
+        "canonical": "http://spoonful.local/recipes/paneer-tikka-wrap/",
+        "og_locale": "en_US",
+        "og_type": "article",
+        "og_title": "Paneer Tikka Wrap with Mint Chutney | Spoonful",
+        "og_description": "Smoky pan-charred paneer tikka rolled in a soft wrap with onions and mint chutney. A filling vegetarian lunch that packs well.",
+        "og_url": "http://spoonful.local/recipes/paneer-tikka-wrap/",
+        "og_site_name": "Spoonful",
+        "article_published_time": "2026-10-21T12:00:00+00:00",
+        "article_modified_time": "2026-10-21T12:00:00+00:00",
+        "og_image": [
+          {
+            "width": 1200,
+            "height": 800,
+            "url": "http://spoonful.local/wp-content/uploads/2026/11/paneer-tikka-wrap.jpg",
+            "type": "image/jpeg"
+          }
+        ],
+        "twitter_card": "summary_large_image",
+        "schema": {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@type": "Article",
+              "@id": "http://spoonful.local/recipes/paneer-tikka-wrap/#article",
+              "headline": "Paneer Tikka Wrap",
+              "datePublished": "2026-10-21T12:00:00+00:00",
+              "dateModified": "2026-10-21T12:00:00+00:00",
+              "mainEntityOfPage": {
+                "@id": "http://spoonful.local/recipes/paneer-tikka-wrap/"
+              },
+              "image": {
+                "@id": "http://spoonful.local/recipes/paneer-tikka-wrap/#primaryimage"
+              },
+              "isPartOf": {
+                "@id": "http://spoonful.local/recipes/paneer-tikka-wrap/"
+              },
+              "inLanguage": "en-US"
+            },
+            {
+              "@type": "WebPage",
+              "@id": "http://spoonful.local/recipes/paneer-tikka-wrap/",
+              "url": "http://spoonful.local/recipes/paneer-tikka-wrap/",
+              "name": "Paneer Tikka Wrap with Mint Chutney | Spoonful",
+              "isPartOf": {
+                "@id": "http://spoonful.local/#website"
+              },
+              "description": "Smoky pan-charred paneer tikka rolled in a soft wrap with onions and mint chutney. A filling vegetarian lunch that packs well.",
+              "breadcrumb": {
+                "@id": "http://spoonful.local/recipes/paneer-tikka-wrap/#breadcrumb"
+              },
+              "inLanguage": "en-US"
+            },
+            {
+              "@type": "BreadcrumbList",
+              "@id": "http://spoonful.local/recipes/paneer-tikka-wrap/#breadcrumb",
+              "itemListElement": [
+                {
+                  "@type": "ListItem",
+                  "position": 1,
+                  "name": "Home",
+                  "item": "http://spoonful.local/"
+                },
+                {
+                  "@type": "ListItem",
+                  "position": 2,
+                  "name": "Paneer Tikka Wrap"
+                }
+              ]
+            },
+            {
+              "@type": "WebSite",
+              "@id": "http://spoonful.local/#website",
+              "url": "http://spoonful.local/",
+              "name": "Spoonful",
+              "description": "Simple home cooking, one spoonful at a time",
+              "inLanguage": "en-US"
+            }
+          ]
+        }
+      },
+      "_embedded": {
+        "wp:featuredmedia": [
+          {
+            "id": 207,
+            "date": "2026-10-21T12:00:00",
+            "slug": "paneer-tikka-wrap-image",
+            "type": "attachment",
+            "link": "http://spoonful.local/recipes/paneer-tikka-wrap/paneer-tikka-wrap-image/",
+            "title": {
+              "rendered": "Paneer Tikka Wrap"
+            },
+            "alt_text": "A paneer tikka wrap cut in half showing charred paneer, onions and mint chutney",
+            "media_type": "image",
+            "mime_type": "image/jpeg",
+            "media_details": {
+              "width": 1200,
+              "height": 800,
+              "file": "2026/11/paneer-tikka-wrap.jpg",
+              "sizes": {}
+            },
+            "source_url": "http://spoonful.local/wp-content/uploads/2026/11/paneer-tikka-wrap.jpg"
+          }
+        ],
+        "wp:term": [
+          [
+            {
+              "id": 3,
+              "link": "http://spoonful.local/category/lunch/",
+              "name": "Lunch",
+              "slug": "lunch",
+              "taxonomy": "category"
+            }
+          ],
+          [
+            {
+              "id": 10,
+              "link": "http://spoonful.local/tag/vegetarian/",
+              "name": "Vegetarian",
+              "slug": "vegetarian",
+              "taxonomy": "post_tag"
+            },
+            {
+              "id": 13,
+              "link": "http://spoonful.local/tag/indian/",
+              "name": "Indian",
+              "slug": "indian",
+              "taxonomy": "post_tag"
+            },
+            {
+              "id": 17,
+              "link": "http://spoonful.local/tag/spicy/",
+              "name": "Spicy",
+              "slug": "spicy",
+              "taxonomy": "post_tag"
+            }
+          ]
+        ]
+      }
+    },
+    {
+      "id": 106,
+      "date": "2026-10-18T12:00:00",
+      "date_gmt": "2026-10-18T12:00:00",
+      "modified": "2026-10-18T12:00:00",
+      "modified_gmt": "2026-10-18T12:00:00",
+      "slug": "chicken-biryani",
+      "status": "publish",
+      "type": "post",
+      "link": "http://spoonful.local/recipes/chicken-biryani/",
+      "title": {
+        "rendered": "Chicken Biryani"
+      },
+      "content": {
+        "rendered": "<p>Biryani looks hard but it is really three simple steps: marinate the chicken, par-boil the rice, then layer and steam. This version works in any heavy pot.</p>\n<p><strong>Prep:</strong> 30 min &middot; <strong>Cook:</strong> 45 min &middot; <strong>Serves:</strong> 4</p>\n<h2>Ingredients</h2>\n<ul><li>500 g chicken, bone-in pieces</li><li>1 cup plain yoghurt</li><li>2 tbsp biryani masala</li><li>1 tbsp ginger-garlic paste</li><li>2 cups basmati rice, soaked 30 minutes</li><li>2 onions, thinly sliced and fried</li><li>A pinch of saffron in 3 tbsp warm milk</li><li>Mint and coriander leaves</li><li>3 tbsp ghee</li><li>Salt to taste</li></ul>\n<h2>Method</h2>\n<ol><li>Marinate the chicken with yoghurt, biryani masala, ginger-garlic paste and salt for at least 30 minutes.</li><li>Cook the chicken in a heavy pot with 1 tbsp ghee for 15 minutes until almost done.</li><li>Boil the rice in salted water for 6 minutes until 70% cooked, then drain.</li><li>Layer the rice over the chicken. Top with fried onions, herbs, saffron milk and the remaining ghee.</li><li>Cover tightly and cook on the lowest heat for 20 minutes. Rest 5 minutes before opening.</li></ol>\n<h2>Tip</h2>\n<p>Seal the lid with foil so no steam escapes. Steam is what cooks the top layer of rice.</p>",
+        "protected": false
+      },
+      "excerpt": {
+        "rendered": "<p>Fragrant layers of spiced chicken and saffron rice, cooked in one pot.</p>\n",
+        "protected": false
+      },
+      "author": 1,
+      "featured_media": 206,
+      "categories": [
+        3
+      ],
+      "tags": [
+        13,
+        17
+      ],
+      "yoast_head_json": {
+        "title": "Easy Chicken Biryani at Home (Step-by-Step) | Spoonful",
+        "description": "Fragrant layered chicken biryani with marinated chicken, saffron rice and crispy onions. A step-by-step recipe that works in a regular pot.",
+        "robots": {
+          "index": "index",
+          "follow": "follow",
+          "max-snippet": "max-snippet:-1",
+          "max-image-preview": "max-image-preview:large",
+          "max-video-preview": "max-video-preview:-1"
+        },
+        "canonical": "http://spoonful.local/recipes/chicken-biryani/",
+        "og_locale": "en_US",
+        "og_type": "article",
+        "og_title": "Easy Chicken Biryani at Home (Step-by-Step) | Spoonful",
+        "og_description": "Fragrant layered chicken biryani with marinated chicken, saffron rice and crispy onions. A step-by-step recipe that works in a regular pot.",
+        "og_url": "http://spoonful.local/recipes/chicken-biryani/",
+        "og_site_name": "Spoonful",
+        "article_published_time": "2026-10-18T12:00:00+00:00",
+        "article_modified_time": "2026-10-18T12:00:00+00:00",
+        "og_image": [
+          {
+            "width": 1200,
+            "height": 800,
+            "url": "http://spoonful.local/wp-content/uploads/2026/11/chicken-biryani.jpg",
+            "type": "image/jpeg"
+          }
+        ],
+        "twitter_card": "summary_large_image",
+        "schema": {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@type": "Article",
+              "@id": "http://spoonful.local/recipes/chicken-biryani/#article",
+              "headline": "Chicken Biryani",
+              "datePublished": "2026-10-18T12:00:00+00:00",
+              "dateModified": "2026-10-18T12:00:00+00:00",
+              "mainEntityOfPage": {
+                "@id": "http://spoonful.local/recipes/chicken-biryani/"
+              },
+              "image": {
+                "@id": "http://spoonful.local/recipes/chicken-biryani/#primaryimage"
+              },
+              "isPartOf": {
+                "@id": "http://spoonful.local/recipes/chicken-biryani/"
+              },
+              "inLanguage": "en-US"
+            },
+            {
+              "@type": "WebPage",
+              "@id": "http://spoonful.local/recipes/chicken-biryani/",
+              "url": "http://spoonful.local/recipes/chicken-biryani/",
+              "name": "Easy Chicken Biryani at Home (Step-by-Step) | Spoonful",
+              "isPartOf": {
+                "@id": "http://spoonful.local/#website"
+              },
+              "description": "Fragrant layered chicken biryani with marinated chicken, saffron rice and crispy onions. A step-by-step recipe that works in a regular pot.",
+              "breadcrumb": {
+                "@id": "http://spoonful.local/recipes/chicken-biryani/#breadcrumb"
+              },
+              "inLanguage": "en-US"
+            },
+            {
+              "@type": "BreadcrumbList",
+              "@id": "http://spoonful.local/recipes/chicken-biryani/#breadcrumb",
+              "itemListElement": [
+                {
+                  "@type": "ListItem",
+                  "position": 1,
+                  "name": "Home",
+                  "item": "http://spoonful.local/"
+                },
+                {
+                  "@type": "ListItem",
+                  "position": 2,
+                  "name": "Chicken Biryani"
+                }
+              ]
+            },
+            {
+              "@type": "WebSite",
+              "@id": "http://spoonful.local/#website",
+              "url": "http://spoonful.local/",
+              "name": "Spoonful",
+              "description": "Simple home cooking, one spoonful at a time",
+              "inLanguage": "en-US"
+            }
+          ]
+        }
+      },
+      "_embedded": {
+        "wp:featuredmedia": [
+          {
+            "id": 206,
+            "date": "2026-10-18T12:00:00",
+            "slug": "chicken-biryani-image",
+            "type": "attachment",
+            "link": "http://spoonful.local/recipes/chicken-biryani/chicken-biryani-image/",
+            "title": {
+              "rendered": "Chicken Biryani"
+            },
+            "alt_text": "A pot of layered chicken biryani with saffron rice and fried onions",
+            "media_type": "image",
+            "mime_type": "image/jpeg",
+            "media_details": {
+              "width": 1200,
+              "height": 800,
+              "file": "2026/11/chicken-biryani.jpg",
+              "sizes": {}
+            },
+            "source_url": "http://spoonful.local/wp-content/uploads/2026/11/chicken-biryani.jpg"
+          }
+        ],
+        "wp:term": [
+          [
+            {
+              "id": 3,
+              "link": "http://spoonful.local/category/lunch/",
+              "name": "Lunch",
+              "slug": "lunch",
+              "taxonomy": "category"
+            }
+          ],
+          [
+            {
+              "id": 13,
+              "link": "http://spoonful.local/tag/indian/",
+              "name": "Indian",
+              "slug": "indian",
+              "taxonomy": "post_tag"
+            },
+            {
+              "id": 17,
+              "link": "http://spoonful.local/tag/spicy/",
+              "name": "Spicy",
+              "slug": "spicy",
+              "taxonomy": "post_tag"
+            }
+          ]
+        ]
+      }
+    },
+    {
+      "id": 105,
+      "date": "2026-10-15T12:00:00",
+      "date_gmt": "2026-10-15T12:00:00",
+      "modified": "2026-10-15T12:00:00",
+      "modified_gmt": "2026-10-15T12:00:00",
+      "slug": "creamy-tomato-basil-soup",
+      "status": "publish",
+      "type": "post",
+      "link": "http://spoonful.local/recipes/creamy-tomato-basil-soup/",
+      "title": {
+        "rendered": "Creamy Tomato Basil Soup"
+      },
+      "content": {
+        "rendered": "<p>Canned tomatoes make this soup possible any time of year. A little butter and cream round out the acidity and fresh basil makes it taste like summer.</p>\n<p><strong>Prep:</strong> 10 min &middot; <strong>Cook:</strong> 20 min &middot; <strong>Serves:</strong> 4</p>\n<h2>Ingredients</h2>\n<ul><li>2 tbsp butter</li><li>1 onion, chopped</li><li>3 garlic cloves, sliced</li><li>2 cans (400 g each) whole tomatoes</li><li>2 cups vegetable stock</li><li>1 tsp sugar</li><li>1/2 cup cream</li><li>A handful of fresh basil</li><li>Salt and pepper</li></ul>\n<h2>Method</h2>\n<ol><li>Melt the butter in a pot and cook the onion for 5 minutes until soft.</li><li>Add the garlic and cook 1 minute.</li><li>Add the tomatoes, stock and sugar. Simmer for 15 minutes.</li><li>Blend until smooth, then stir in the cream and basil.</li><li>Season with salt and pepper and serve hot.</li></ol>\n<h2>Tip</h2>\n<p>The soup freezes well for up to 3 months. Freeze it before adding the cream.</p>",
+        "protected": false
+      },
+      "excerpt": {
+        "rendered": "<p>Velvety, comforting soup from canned tomatoes in 30 minutes.</p>\n",
+        "protected": false
+      },
+      "author": 1,
+      "featured_media": 205,
+      "categories": [
+        3
+      ],
+      "tags": [
+        10,
+        14,
+        15
+      ],
+      "yoast_head_json": {
+        "title": "Creamy Tomato Basil Soup in 30 Minutes | Spoonful",
+        "description": "A velvety tomato basil soup made with canned tomatoes in 30 minutes. Freezer friendly and perfect with a grilled cheese sandwich.",
+        "robots": {
+          "index": "index",
+          "follow": "follow",
+          "max-snippet": "max-snippet:-1",
+          "max-image-preview": "max-image-preview:large",
+          "max-video-preview": "max-video-preview:-1"
+        },
+        "canonical": "http://spoonful.local/recipes/creamy-tomato-basil-soup/",
+        "og_locale": "en_US",
+        "og_type": "article",
+        "og_title": "Creamy Tomato Basil Soup in 30 Minutes | Spoonful",
+        "og_description": "A velvety tomato basil soup made with canned tomatoes in 30 minutes. Freezer friendly and perfect with a grilled cheese sandwich.",
+        "og_url": "http://spoonful.local/recipes/creamy-tomato-basil-soup/",
+        "og_site_name": "Spoonful",
+        "article_published_time": "2026-10-15T12:00:00+00:00",
+        "article_modified_time": "2026-10-15T12:00:00+00:00",
+        "og_image": [
+          {
+            "width": 1200,
+            "height": 800,
+            "url": "http://spoonful.local/wp-content/uploads/2026/11/creamy-tomato-basil-soup.jpg",
+            "type": "image/jpeg"
+          }
+        ],
+        "twitter_card": "summary_large_image",
+        "schema": {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@type": "Article",
+              "@id": "http://spoonful.local/recipes/creamy-tomato-basil-soup/#article",
+              "headline": "Creamy Tomato Basil Soup",
+              "datePublished": "2026-10-15T12:00:00+00:00",
+              "dateModified": "2026-10-15T12:00:00+00:00",
+              "mainEntityOfPage": {
+                "@id": "http://spoonful.local/recipes/creamy-tomato-basil-soup/"
+              },
+              "image": {
+                "@id": "http://spoonful.local/recipes/creamy-tomato-basil-soup/#primaryimage"
+              },
+              "isPartOf": {
+                "@id": "http://spoonful.local/recipes/creamy-tomato-basil-soup/"
+              },
+              "inLanguage": "en-US"
+            },
+            {
+              "@type": "WebPage",
+              "@id": "http://spoonful.local/recipes/creamy-tomato-basil-soup/",
+              "url": "http://spoonful.local/recipes/creamy-tomato-basil-soup/",
+              "name": "Creamy Tomato Basil Soup in 30 Minutes | Spoonful",
+              "isPartOf": {
+                "@id": "http://spoonful.local/#website"
+              },
+              "description": "A velvety tomato basil soup made with canned tomatoes in 30 minutes. Freezer friendly and perfect with a grilled cheese sandwich.",
+              "breadcrumb": {
+                "@id": "http://spoonful.local/recipes/creamy-tomato-basil-soup/#breadcrumb"
+              },
+              "inLanguage": "en-US"
+            },
+            {
+              "@type": "BreadcrumbList",
+              "@id": "http://spoonful.local/recipes/creamy-tomato-basil-soup/#breadcrumb",
+              "itemListElement": [
+                {
+                  "@type": "ListItem",
+                  "position": 1,
+                  "name": "Home",
+                  "item": "http://spoonful.local/"
+                },
+                {
+                  "@type": "ListItem",
+                  "position": 2,
+                  "name": "Creamy Tomato Basil Soup"
+                }
+              ]
+            },
+            {
+              "@type": "WebSite",
+              "@id": "http://spoonful.local/#website",
+              "url": "http://spoonful.local/",
+              "name": "Spoonful",
+              "description": "Simple home cooking, one spoonful at a time",
+              "inLanguage": "en-US"
+            }
+          ]
+        }
+      },
+      "_embedded": {
+        "wp:featuredmedia": [
+          {
+            "id": 205,
+            "date": "2026-10-15T12:00:00",
+            "slug": "creamy-tomato-basil-soup-image",
+            "type": "attachment",
+            "link": "http://spoonful.local/recipes/creamy-tomato-basil-soup/creamy-tomato-basil-soup-image/",
+            "title": {
+              "rendered": "Creamy Tomato Basil Soup"
+            },
+            "alt_text": "A bowl of creamy tomato basil soup with a swirl of cream and fresh basil",
+            "media_type": "image",
+            "mime_type": "image/jpeg",
+            "media_details": {
+              "width": 1200,
+              "height": 800,
+              "file": "2026/11/creamy-tomato-basil-soup.jpg",
+              "sizes": {}
+            },
+            "source_url": "http://spoonful.local/wp-content/uploads/2026/11/creamy-tomato-basil-soup.jpg"
+          }
+        ],
+        "wp:term": [
+          [
+            {
+              "id": 3,
+              "link": "http://spoonful.local/category/lunch/",
+              "name": "Lunch",
+              "slug": "lunch",
+              "taxonomy": "category"
+            }
+          ],
+          [
+            {
+              "id": 10,
+              "link": "http://spoonful.local/tag/vegetarian/",
+              "name": "Vegetarian",
+              "slug": "vegetarian",
+              "taxonomy": "post_tag"
+            },
+            {
+              "id": 14,
+              "link": "http://spoonful.local/tag/make-ahead/",
+              "name": "Make Ahead",
+              "slug": "make-ahead",
+              "taxonomy": "post_tag"
+            },
+            {
+              "id": 15,
+              "link": "http://spoonful.local/tag/kid-friendly/",
+              "name": "Kid Friendly",
+              "slug": "kid-friendly",
+              "taxonomy": "post_tag"
+            }
+          ]
+        ]
+      }
+    },
+    {
+      "id": 104,
+      "date": "2026-10-12T08:00:00",
+      "date_gmt": "2026-10-12T08:00:00",
+      "modified": "2026-10-12T08:00:00",
+      "modified_gmt": "2026-10-12T08:00:00",
+      "slug": "avocado-toast-with-poached-egg",
+      "status": "publish",
+      "type": "post",
+      "link": "http://spoonful.local/recipes/avocado-toast-with-poached-egg/",
+      "title": {
+        "rendered": "Avocado Toast with Poached Egg"
+      },
+      "content": {
+        "rendered": "<p>Good avocado toast is all about contrast: crunchy bread, creamy avocado, a squeeze of lime and an egg yolk that runs over everything.</p>\n<p><strong>Prep:</strong> 5 min &middot; <strong>Cook:</strong> 5 min &middot; <strong>Serves:</strong> 2</p>\n<h2>Ingredients</h2>\n<ul><li>2 thick slices sourdough bread</li><li>1 ripe avocado</li><li>1/2 lime, juiced</li><li>Pinch of chilli flakes</li><li>2 eggs</li><li>1 tsp vinegar</li><li>Salt and black pepper</li></ul>\n<h2>Method</h2>\n<ol><li>Toast the bread until deep golden.</li><li>Mash the avocado with lime juice, salt and pepper.</li><li>Bring a pan of water to a gentle simmer and add the vinegar.</li><li>Crack each egg into a cup, stir the water into a gentle swirl and slide the egg in. Cook 3 minutes.</li><li>Spread the avocado on the toast, top with the egg and finish with chilli flakes.</li></ol>\n<h2>Tip</h2>\n<p>The fresher the egg, the neater it poaches.</p>",
+        "protected": false
+      },
+      "excerpt": {
+        "rendered": "<p>Smashed avocado, lime, chilli flakes and a runny poached egg on crunchy toast.</p>\n",
+        "protected": false
+      },
+      "author": 1,
+      "featured_media": 204,
+      "categories": [
+        2
+      ],
+      "tags": [
+        10,
+        11,
+        12
+      ],
+      "yoast_head_json": {
+        "title": "Avocado Toast with Poached Egg (Foolproof Method) | Spoonful",
+        "description": "Crunchy sourdough, smashed avocado with lime and chilli, and a perfect poached egg. A 10-minute breakfast with a foolproof poaching method.",
+        "robots": {
+          "index": "index",
+          "follow": "follow",
+          "max-snippet": "max-snippet:-1",
+          "max-image-preview": "max-image-preview:large",
+          "max-video-preview": "max-video-preview:-1"
+        },
+        "canonical": "http://spoonful.local/recipes/avocado-toast-with-poached-egg/",
+        "og_locale": "en_US",
+        "og_type": "article",
+        "og_title": "Avocado Toast with Poached Egg (Foolproof Method) | Spoonful",
+        "og_description": "Crunchy sourdough, smashed avocado with lime and chilli, and a perfect poached egg. A 10-minute breakfast with a foolproof poaching method.",
+        "og_url": "http://spoonful.local/recipes/avocado-toast-with-poached-egg/",
+        "og_site_name": "Spoonful",
+        "article_published_time": "2026-10-12T08:00:00+00:00",
+        "article_modified_time": "2026-10-12T08:00:00+00:00",
+        "og_image": [
+          {
+            "width": 1200,
+            "height": 800,
+            "url": "http://spoonful.local/wp-content/uploads/2026/11/avocado-toast-with-poached-egg.jpg",
+            "type": "image/jpeg"
+          }
+        ],
+        "twitter_card": "summary_large_image",
+        "schema": {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@type": "Article",
+              "@id": "http://spoonful.local/recipes/avocado-toast-with-poached-egg/#article",
+              "headline": "Avocado Toast with Poached Egg",
+              "datePublished": "2026-10-12T08:00:00+00:00",
+              "dateModified": "2026-10-12T08:00:00+00:00",
+              "mainEntityOfPage": {
+                "@id": "http://spoonful.local/recipes/avocado-toast-with-poached-egg/"
+              },
+              "image": {
+                "@id": "http://spoonful.local/recipes/avocado-toast-with-poached-egg/#primaryimage"
+              },
+              "isPartOf": {
+                "@id": "http://spoonful.local/recipes/avocado-toast-with-poached-egg/"
+              },
+              "inLanguage": "en-US"
+            },
+            {
+              "@type": "WebPage",
+              "@id": "http://spoonful.local/recipes/avocado-toast-with-poached-egg/",
+              "url": "http://spoonful.local/recipes/avocado-toast-with-poached-egg/",
+              "name": "Avocado Toast with Poached Egg (Foolproof Method) | Spoonful",
+              "isPartOf": {
+                "@id": "http://spoonful.local/#website"
+              },
+              "description": "Crunchy sourdough, smashed avocado with lime and chilli, and a perfect poached egg. A 10-minute breakfast with a foolproof poaching method.",
+              "breadcrumb": {
+                "@id": "http://spoonful.local/recipes/avocado-toast-with-poached-egg/#breadcrumb"
+              },
+              "inLanguage": "en-US"
+            },
+            {
+              "@type": "BreadcrumbList",
+              "@id": "http://spoonful.local/recipes/avocado-toast-with-poached-egg/#breadcrumb",
+              "itemListElement": [
+                {
+                  "@type": "ListItem",
+                  "position": 1,
+                  "name": "Home",
+                  "item": "http://spoonful.local/"
+                },
+                {
+                  "@type": "ListItem",
+                  "position": 2,
+                  "name": "Avocado Toast with Poached Egg"
+                }
+              ]
+            },
+            {
+              "@type": "WebSite",
+              "@id": "http://spoonful.local/#website",
+              "url": "http://spoonful.local/",
+              "name": "Spoonful",
+              "description": "Simple home cooking, one spoonful at a time",
+              "inLanguage": "en-US"
+            }
+          ]
+        }
+      },
+      "_embedded": {
+        "wp:featuredmedia": [
+          {
+            "id": 204,
+            "date": "2026-10-12T08:00:00",
+            "slug": "avocado-toast-with-poached-egg-image",
+            "type": "attachment",
+            "link": "http://spoonful.local/recipes/avocado-toast-with-poached-egg/avocado-toast-with-poached-egg-image/",
+            "title": {
+              "rendered": "Avocado Toast with Poached Egg"
+            },
+            "alt_text": "Sourdough toast topped with smashed avocado and a soft poached egg",
+            "media_type": "image",
+            "mime_type": "image/jpeg",
+            "media_details": {
+              "width": 1200,
+              "height": 800,
+              "file": "2026/11/avocado-toast-with-poached-egg.jpg",
+              "sizes": {}
+            },
+            "source_url": "http://spoonful.local/wp-content/uploads/2026/11/avocado-toast-with-poached-egg.jpg"
+          }
+        ],
+        "wp:term": [
+          [
+            {
+              "id": 2,
+              "link": "http://spoonful.local/category/breakfast/",
+              "name": "Breakfast",
+              "slug": "breakfast",
+              "taxonomy": "category"
+            }
+          ],
+          [
+            {
+              "id": 10,
+              "link": "http://spoonful.local/tag/vegetarian/",
+              "name": "Vegetarian",
+              "slug": "vegetarian",
+              "taxonomy": "post_tag"
+            },
+            {
+              "id": 11,
+              "link": "http://spoonful.local/tag/quick/",
+              "name": "Quick",
+              "slug": "quick",
+              "taxonomy": "post_tag"
+            },
+            {
+              "id": 12,
+              "link": "http://spoonful.local/tag/healthy/",
+              "name": "Healthy",
+              "slug": "healthy",
+              "taxonomy": "post_tag"
+            }
+          ]
+        ]
+      }
+    },
+    {
+      "id": 103,
+      "date": "2026-10-09T08:00:00",
+      "date_gmt": "2026-10-09T08:00:00",
+      "modified": "2026-10-09T08:00:00",
+      "modified_gmt": "2026-10-09T08:00:00",
+      "slug": "overnight-oats-with-berries",
+      "status": "publish",
+      "type": "post",
+      "link": "http://spoonful.local/recipes/overnight-oats-with-berries/",
+      "title": {
+        "rendered": "Overnight Oats with Berries"
+      },
+      "content": {
+        "rendered": "<p>Overnight oats are the easiest healthy breakfast there is. Mix everything in a jar before bed and breakfast is waiting for you in the fridge.</p>\n<p><strong>Prep:</strong> 5 min &middot; <strong>Cook:</strong> 0 min (overnight soak) &middot; <strong>Serves:</strong> 1</p>\n<h2>Ingredients</h2>\n<ul><li>1/2 cup rolled oats</li><li>1/2 cup milk</li><li>1/4 cup plain yoghurt</li><li>1 tbsp chia seeds</li><li>1 tsp honey</li><li>1/2 cup mixed berries</li></ul>\n<h2>Method</h2>\n<ol><li>Add the oats, milk, yoghurt, chia seeds and honey to a jar.</li><li>Stir well, close the lid and refrigerate overnight or at least 4 hours.</li><li>In the morning, stir again and add a splash of milk if it is too thick.</li><li>Top with berries and serve cold.</li></ol>\n<h2>Tip</h2>\n<p>Use rolled oats, not instant oats. Instant oats turn mushy overnight.</p>",
+        "protected": false
+      },
+      "excerpt": {
+        "rendered": "<p>Five minutes of prep tonight, a creamy healthy breakfast tomorrow.</p>\n",
+        "protected": false
+      },
+      "author": 1,
+      "featured_media": 203,
+      "categories": [
+        2
+      ],
+      "tags": [
+        10,
+        12,
+        14,
+        16
+      ],
+      "yoast_head_json": {
+        "title": "Overnight Oats with Berries: 5-Minute Make-Ahead Breakfast | Spoonful",
+        "description": "Creamy overnight oats with yoghurt, chia and fresh berries. Prep five jars on Sunday for an easy, healthy breakfast all week.",
+        "robots": {
+          "index": "index",
+          "follow": "follow",
+          "max-snippet": "max-snippet:-1",
+          "max-image-preview": "max-image-preview:large",
+          "max-video-preview": "max-video-preview:-1"
+        },
+        "canonical": "http://spoonful.local/recipes/overnight-oats-with-berries/",
+        "og_locale": "en_US",
+        "og_type": "article",
+        "og_title": "Overnight Oats with Berries: 5-Minute Make-Ahead Breakfast | Spoonful",
+        "og_description": "Creamy overnight oats with yoghurt, chia and fresh berries. Prep five jars on Sunday for an easy, healthy breakfast all week.",
+        "og_url": "http://spoonful.local/recipes/overnight-oats-with-berries/",
+        "og_site_name": "Spoonful",
+        "article_published_time": "2026-10-09T08:00:00+00:00",
+        "article_modified_time": "2026-10-09T08:00:00+00:00",
+        "og_image": [
+          {
+            "width": 1200,
+            "height": 800,
+            "url": "http://spoonful.local/wp-content/uploads/2026/11/overnight-oats-with-berries.jpg",
+            "type": "image/jpeg"
+          }
+        ],
+        "twitter_card": "summary_large_image",
+        "schema": {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@type": "Article",
+              "@id": "http://spoonful.local/recipes/overnight-oats-with-berries/#article",
+              "headline": "Overnight Oats with Berries",
+              "datePublished": "2026-10-09T08:00:00+00:00",
+              "dateModified": "2026-10-09T08:00:00+00:00",
+              "mainEntityOfPage": {
+                "@id": "http://spoonful.local/recipes/overnight-oats-with-berries/"
+              },
+              "image": {
+                "@id": "http://spoonful.local/recipes/overnight-oats-with-berries/#primaryimage"
+              },
+              "isPartOf": {
+                "@id": "http://spoonful.local/recipes/overnight-oats-with-berries/"
+              },
+              "inLanguage": "en-US"
+            },
+            {
+              "@type": "WebPage",
+              "@id": "http://spoonful.local/recipes/overnight-oats-with-berries/",
+              "url": "http://spoonful.local/recipes/overnight-oats-with-berries/",
+              "name": "Overnight Oats with Berries: 5-Minute Make-Ahead Breakfast | Spoonful",
+              "isPartOf": {
+                "@id": "http://spoonful.local/#website"
+              },
+              "description": "Creamy overnight oats with yoghurt, chia and fresh berries. Prep five jars on Sunday for an easy, healthy breakfast all week.",
+              "breadcrumb": {
+                "@id": "http://spoonful.local/recipes/overnight-oats-with-berries/#breadcrumb"
+              },
+              "inLanguage": "en-US"
+            },
+            {
+              "@type": "BreadcrumbList",
+              "@id": "http://spoonful.local/recipes/overnight-oats-with-berries/#breadcrumb",
+              "itemListElement": [
+                {
+                  "@type": "ListItem",
+                  "position": 1,
+                  "name": "Home",
+                  "item": "http://spoonful.local/"
+                },
+                {
+                  "@type": "ListItem",
+                  "position": 2,
+                  "name": "Overnight Oats with Berries"
+                }
+              ]
+            },
+            {
+              "@type": "WebSite",
+              "@id": "http://spoonful.local/#website",
+              "url": "http://spoonful.local/",
+              "name": "Spoonful",
+              "description": "Simple home cooking, one spoonful at a time",
+              "inLanguage": "en-US"
+            }
+          ]
+        }
+      },
+      "_embedded": {
+        "wp:featuredmedia": [
+          {
+            "id": 203,
+            "date": "2026-10-09T08:00:00",
+            "slug": "overnight-oats-with-berries-image",
+            "type": "attachment",
+            "link": "http://spoonful.local/recipes/overnight-oats-with-berries/overnight-oats-with-berries-image/",
+            "title": {
+              "rendered": "Overnight Oats with Berries"
+            },
+            "alt_text": "A glass jar of overnight oats layered with yoghurt and fresh berries",
+            "media_type": "image",
+            "mime_type": "image/jpeg",
+            "media_details": {
+              "width": 1200,
+              "height": 800,
+              "file": "2026/11/overnight-oats-with-berries.jpg",
+              "sizes": {}
+            },
+            "source_url": "http://spoonful.local/wp-content/uploads/2026/11/overnight-oats-with-berries.jpg"
+          }
+        ],
+        "wp:term": [
+          [
+            {
+              "id": 2,
+              "link": "http://spoonful.local/category/breakfast/",
+              "name": "Breakfast",
+              "slug": "breakfast",
+              "taxonomy": "category"
+            }
+          ],
+          [
+            {
+              "id": 10,
+              "link": "http://spoonful.local/tag/vegetarian/",
+              "name": "Vegetarian",
+              "slug": "vegetarian",
+              "taxonomy": "post_tag"
+            },
+            {
+              "id": 12,
+              "link": "http://spoonful.local/tag/healthy/",
+              "name": "Healthy",
+              "slug": "healthy",
+              "taxonomy": "post_tag"
+            },
+            {
+              "id": 14,
+              "link": "http://spoonful.local/tag/make-ahead/",
+              "name": "Make Ahead",
+              "slug": "make-ahead",
+              "taxonomy": "post_tag"
+            },
+            {
+              "id": 16,
+              "link": "http://spoonful.local/tag/no-bake/",
+              "name": "No Bake",
+              "slug": "no-bake",
+              "taxonomy": "post_tag"
+            }
+          ]
+        ]
+      }
+    },
+    {
+      "id": 102,
+      "date": "2026-10-06T08:00:00",
+      "date_gmt": "2026-10-06T08:00:00",
+      "modified": "2026-10-06T08:00:00",
+      "modified_gmt": "2026-10-06T08:00:00",
+      "slug": "masala-omelette",
+      "status": "publish",
+      "type": "post",
+      "link": "http://spoonful.local/recipes/masala-omelette/",
+      "title": {
+        "rendered": "Masala Omelette"
+      },
+      "content": {
+        "rendered": "<p>This is the omelette sold at street stalls all over India, usually tucked inside soft buttered bread. It takes ten minutes and wakes you up better than coffee.</p>\n<p><strong>Prep:</strong> 5 min &middot; <strong>Cook:</strong> 5 min &middot; <strong>Serves:</strong> 1</p>\n<h2>Ingredients</h2>\n<ul><li>3 eggs</li><li>1 small onion, finely chopped</li><li>1 small tomato, finely chopped</li><li>1 green chilli, finely chopped</li><li>2 tbsp chopped coriander</li><li>1/4 tsp turmeric</li><li>1/4 tsp red chilli powder</li><li>Salt to taste</li><li>1 tbsp butter or oil</li></ul>\n<h2>Method</h2>\n<ol><li>Beat the eggs with turmeric, chilli powder and salt.</li><li>Stir in the onion, tomato, green chilli and coriander.</li><li>Heat butter in a pan over medium heat and pour in the egg mix.</li><li>Cook until the bottom is set, about 2 minutes, then flip or fold.</li><li>Cook 1 more minute and serve hot with toast.</li></ol>\n<h2>Tip</h2>\n<p>Keep the vegetables finely chopped so the omelette holds together when you fold it.</p>",
+        "protected": false
+      },
+      "excerpt": {
+        "rendered": "<p>Street-style Indian omelette packed with onion, tomato, chilli and coriander.</p>\n",
+        "protected": false
+      },
+      "author": 1,
+      "featured_media": 202,
+      "categories": [
+        2
+      ],
+      "tags": [
+        11,
+        13,
+        17
+      ],
+      "yoast_head_json": {
+        "title": "Masala Omelette Recipe: Indian Street-Style Eggs | Spoonful",
+        "description": "A spicy Indian masala omelette with onion, tomato, green chilli and coriander. Ready in 10 minutes and perfect with buttered toast.",
+        "robots": {
+          "index": "index",
+          "follow": "follow",
+          "max-snippet": "max-snippet:-1",
+          "max-image-preview": "max-image-preview:large",
+          "max-video-preview": "max-video-preview:-1"
+        },
+        "canonical": "http://spoonful.local/recipes/masala-omelette/",
+        "og_locale": "en_US",
+        "og_type": "article",
+        "og_title": "Masala Omelette Recipe: Indian Street-Style Eggs | Spoonful",
+        "og_description": "A spicy Indian masala omelette with onion, tomato, green chilli and coriander. Ready in 10 minutes and perfect with buttered toast.",
+        "og_url": "http://spoonful.local/recipes/masala-omelette/",
+        "og_site_name": "Spoonful",
+        "article_published_time": "2026-10-06T08:00:00+00:00",
+        "article_modified_time": "2026-10-06T08:00:00+00:00",
+        "og_image": [
+          {
+            "width": 1200,
+            "height": 800,
+            "url": "http://spoonful.local/wp-content/uploads/2026/11/masala-omelette.jpg",
+            "type": "image/jpeg"
+          }
+        ],
+        "twitter_card": "summary_large_image",
+        "schema": {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@type": "Article",
+              "@id": "http://spoonful.local/recipes/masala-omelette/#article",
+              "headline": "Masala Omelette",
+              "datePublished": "2026-10-06T08:00:00+00:00",
+              "dateModified": "2026-10-06T08:00:00+00:00",
+              "mainEntityOfPage": {
+                "@id": "http://spoonful.local/recipes/masala-omelette/"
+              },
+              "image": {
+                "@id": "http://spoonful.local/recipes/masala-omelette/#primaryimage"
+              },
+              "isPartOf": {
+                "@id": "http://spoonful.local/recipes/masala-omelette/"
+              },
+              "inLanguage": "en-US"
+            },
+            {
+              "@type": "WebPage",
+              "@id": "http://spoonful.local/recipes/masala-omelette/",
+              "url": "http://spoonful.local/recipes/masala-omelette/",
+              "name": "Masala Omelette Recipe: Indian Street-Style Eggs | Spoonful",
+              "isPartOf": {
+                "@id": "http://spoonful.local/#website"
+              },
+              "description": "A spicy Indian masala omelette with onion, tomato, green chilli and coriander. Ready in 10 minutes and perfect with buttered toast.",
+              "breadcrumb": {
+                "@id": "http://spoonful.local/recipes/masala-omelette/#breadcrumb"
+              },
+              "inLanguage": "en-US"
+            },
+            {
+              "@type": "BreadcrumbList",
+              "@id": "http://spoonful.local/recipes/masala-omelette/#breadcrumb",
+              "itemListElement": [
+                {
+                  "@type": "ListItem",
+                  "position": 1,
+                  "name": "Home",
+                  "item": "http://spoonful.local/"
+                },
+                {
+                  "@type": "ListItem",
+                  "position": 2,
+                  "name": "Masala Omelette"
+                }
+              ]
+            },
+            {
+              "@type": "WebSite",
+              "@id": "http://spoonful.local/#website",
+              "url": "http://spoonful.local/",
+              "name": "Spoonful",
+              "description": "Simple home cooking, one spoonful at a time",
+              "inLanguage": "en-US"
+            }
+          ]
+        }
+      },
+      "_embedded": {
+        "wp:featuredmedia": [
+          {
+            "id": 202,
+            "date": "2026-10-06T08:00:00",
+            "slug": "masala-omelette-image",
+            "type": "attachment",
+            "link": "http://spoonful.local/recipes/masala-omelette/masala-omelette-image/",
+            "title": {
+              "rendered": "Masala Omelette"
+            },
+            "alt_text": "A folded masala omelette with onion, tomato, green chilli and coriander",
+            "media_type": "image",
+            "mime_type": "image/jpeg",
+            "media_details": {
+              "width": 1200,
+              "height": 800,
+              "file": "2026/11/masala-omelette.jpg",
+              "sizes": {}
+            },
+            "source_url": "http://spoonful.local/wp-content/uploads/2026/11/masala-omelette.jpg"
+          }
+        ],
+        "wp:term": [
+          [
+            {
+              "id": 2,
+              "link": "http://spoonful.local/category/breakfast/",
+              "name": "Breakfast",
+              "slug": "breakfast",
+              "taxonomy": "category"
+            }
+          ],
+          [
+            {
+              "id": 11,
+              "link": "http://spoonful.local/tag/quick/",
+              "name": "Quick",
+              "slug": "quick",
+              "taxonomy": "post_tag"
+            },
+            {
+              "id": 13,
+              "link": "http://spoonful.local/tag/indian/",
+              "name": "Indian",
+              "slug": "indian",
+              "taxonomy": "post_tag"
+            },
+            {
+              "id": 17,
+              "link": "http://spoonful.local/tag/spicy/",
+              "name": "Spicy",
+              "slug": "spicy",
+              "taxonomy": "post_tag"
+            }
+          ]
+        ]
+      }
+    },
+    {
+      "id": 101,
+      "date": "2026-10-03T08:00:00",
+      "date_gmt": "2026-10-03T08:00:00",
+      "modified": "2026-10-03T08:00:00",
+      "modified_gmt": "2026-10-03T08:00:00",
+      "slug": "fluffy-buttermilk-pancakes",
+      "status": "publish",
+      "type": "post",
+      "link": "http://spoonful.local/recipes/fluffy-buttermilk-pancakes/",
+      "title": {
+        "rendered": "Fluffy Buttermilk Pancakes"
+      },
+      "content": {
+        "rendered": "<p>These are the pancakes we make every Sunday. Buttermilk makes them tender and helps them rise tall, and resting the batter for five minutes gives you the fluffiest stack.</p>\n<p><strong>Prep:</strong> 5 min &middot; <strong>Cook:</strong> 15 min &middot; <strong>Serves:</strong> 4</p>\n<h2>Ingredients</h2>\n<ul><li>2 cups all-purpose flour</li><li>2 tbsp sugar</li><li>1 tsp baking powder</li><li>1 tsp baking soda</li><li>1/2 tsp salt</li><li>2 cups buttermilk</li><li>2 eggs</li><li>3 tbsp melted butter, plus more for the pan</li></ul>\n<h2>Method</h2>\n<ol><li>Whisk the flour, sugar, baking powder, baking soda and salt in a large bowl.</li><li>In another bowl whisk the buttermilk, eggs and melted butter.</li><li>Pour the wet mix into the dry mix and stir until just combined. A few lumps are fine.</li><li>Rest the batter for 5 minutes while you heat a buttered pan over medium heat.</li><li>Pour 1/4 cup of batter per pancake. Flip when bubbles form on top, about 2 minutes, then cook 1 minute more.</li></ol>\n<h2>Tip</h2>\n<p>No buttermilk? Stir 2 tbsp lemon juice into 2 cups of milk and wait 5 minutes.</p>",
+        "protected": false
+      },
+      "excerpt": {
+        "rendered": "<p>Tall, soft pancakes with crisp edges, made with pantry staples in 20 minutes.</p>\n",
+        "protected": false
+      },
+      "author": 1,
+      "featured_media": 201,
+      "categories": [
+        2
+      ],
+      "tags": [
+        10,
+        11,
+        15
+      ],
+      "yoast_head_json": {
+        "title": "Fluffy Buttermilk Pancakes (Ready in 20 Minutes) | Spoonful",
+        "description": "Make tall, fluffy buttermilk pancakes at home with pantry staples. A simple weekend breakfast recipe ready in 20 minutes.",
+        "robots": {
+          "index": "index",
+          "follow": "follow",
+          "max-snippet": "max-snippet:-1",
+          "max-image-preview": "max-image-preview:large",
+          "max-video-preview": "max-video-preview:-1"
+        },
+        "canonical": "http://spoonful.local/recipes/fluffy-buttermilk-pancakes/",
+        "og_locale": "en_US",
+        "og_type": "article",
+        "og_title": "Fluffy Buttermilk Pancakes (Ready in 20 Minutes) | Spoonful",
+        "og_description": "Make tall, fluffy buttermilk pancakes at home with pantry staples. A simple weekend breakfast recipe ready in 20 minutes.",
+        "og_url": "http://spoonful.local/recipes/fluffy-buttermilk-pancakes/",
+        "og_site_name": "Spoonful",
+        "article_published_time": "2026-10-03T08:00:00+00:00",
+        "article_modified_time": "2026-10-03T08:00:00+00:00",
+        "og_image": [
+          {
+            "width": 1200,
+            "height": 800,
+            "url": "http://spoonful.local/wp-content/uploads/2026/11/fluffy-buttermilk-pancakes.jpg",
+            "type": "image/jpeg"
+          }
+        ],
+        "twitter_card": "summary_large_image",
+        "schema": {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@type": "Article",
+              "@id": "http://spoonful.local/recipes/fluffy-buttermilk-pancakes/#article",
+              "headline": "Fluffy Buttermilk Pancakes",
+              "datePublished": "2026-10-03T08:00:00+00:00",
+              "dateModified": "2026-10-03T08:00:00+00:00",
+              "mainEntityOfPage": {
+                "@id": "http://spoonful.local/recipes/fluffy-buttermilk-pancakes/"
+              },
+              "image": {
+                "@id": "http://spoonful.local/recipes/fluffy-buttermilk-pancakes/#primaryimage"
+              },
+              "isPartOf": {
+                "@id": "http://spoonful.local/recipes/fluffy-buttermilk-pancakes/"
+              },
+              "inLanguage": "en-US"
+            },
+            {
+              "@type": "WebPage",
+              "@id": "http://spoonful.local/recipes/fluffy-buttermilk-pancakes/",
+              "url": "http://spoonful.local/recipes/fluffy-buttermilk-pancakes/",
+              "name": "Fluffy Buttermilk Pancakes (Ready in 20 Minutes) | Spoonful",
+              "isPartOf": {
+                "@id": "http://spoonful.local/#website"
+              },
+              "description": "Make tall, fluffy buttermilk pancakes at home with pantry staples. A simple weekend breakfast recipe ready in 20 minutes.",
+              "breadcrumb": {
+                "@id": "http://spoonful.local/recipes/fluffy-buttermilk-pancakes/#breadcrumb"
+              },
+              "inLanguage": "en-US"
+            },
+            {
+              "@type": "BreadcrumbList",
+              "@id": "http://spoonful.local/recipes/fluffy-buttermilk-pancakes/#breadcrumb",
+              "itemListElement": [
+                {
+                  "@type": "ListItem",
+                  "position": 1,
+                  "name": "Home",
+                  "item": "http://spoonful.local/"
+                },
+                {
+                  "@type": "ListItem",
+                  "position": 2,
+                  "name": "Fluffy Buttermilk Pancakes"
+                }
+              ]
+            },
+            {
+              "@type": "WebSite",
+              "@id": "http://spoonful.local/#website",
+              "url": "http://spoonful.local/",
+              "name": "Spoonful",
+              "description": "Simple home cooking, one spoonful at a time",
+              "inLanguage": "en-US"
+            }
+          ]
+        }
+      },
+      "_embedded": {
+        "wp:featuredmedia": [
+          {
+            "id": 201,
+            "date": "2026-10-03T08:00:00",
+            "slug": "fluffy-buttermilk-pancakes-image",
+            "type": "attachment",
+            "link": "http://spoonful.local/recipes/fluffy-buttermilk-pancakes/fluffy-buttermilk-pancakes-image/",
+            "title": {
+              "rendered": "Fluffy Buttermilk Pancakes"
+            },
+            "alt_text": "A tall stack of golden buttermilk pancakes with butter and maple syrup",
+            "media_type": "image",
+            "mime_type": "image/jpeg",
+            "media_details": {
+              "width": 1200,
+              "height": 800,
+              "file": "2026/11/fluffy-buttermilk-pancakes.jpg",
+              "sizes": {}
+            },
+            "source_url": "http://spoonful.local/wp-content/uploads/2026/11/fluffy-buttermilk-pancakes.jpg"
+          }
+        ],
+        "wp:term": [
+          [
+            {
+              "id": 2,
+              "link": "http://spoonful.local/category/breakfast/",
+              "name": "Breakfast",
+              "slug": "breakfast",
+              "taxonomy": "category"
+            }
+          ],
+          [
+            {
+              "id": 10,
+              "link": "http://spoonful.local/tag/vegetarian/",
+              "name": "Vegetarian",
+              "slug": "vegetarian",
+              "taxonomy": "post_tag"
+            },
+            {
+              "id": 11,
+              "link": "http://spoonful.local/tag/quick/",
+              "name": "Quick",
+              "slug": "quick",
+              "taxonomy": "post_tag"
+            },
+            {
+              "id": 15,
+              "link": "http://spoonful.local/tag/kid-friendly/",
+              "name": "Kid Friendly",
+              "slug": "kid-friendly",
+              "taxonomy": "post_tag"
+            }
+          ]
+        ]
+      }
+    }
+  ],
+  "pages": [
+    {
+      "id": 301,
+      "date": "2026-10-01T09:00:00",
+      "modified": "2026-10-01T09:00:00",
+      "slug": "about",
+      "status": "publish",
+      "type": "page",
+      "link": "http://spoonful.local/about/",
+      "title": {
+        "rendered": "About"
+      },
+      "content": {
+        "rendered": "<p>Spoonful started in a tiny rented kitchen with one pan, one pot and a lot of curiosity. Today it is a collection of simple, tested recipes that anyone can cook on a weeknight.</p><h2>What you will find here</h2><ul><li>Breakfasts that take 20 minutes or less</li><li>Lunches that pack well for work and school</li><li>Desserts for every skill level, including plenty of no-bake treats</li></ul><h2>How we test recipes</h2><p>Every recipe is cooked at least three times in a normal home kitchen, with normal home equipment, before it goes on the blog. If a step is confusing, we rewrite it.</p><p>Have a question or a recipe request? <a href=\"/contact/\">Get in touch</a>.</p>",
+        "protected": false
+      },
+      "excerpt": {
+        "rendered": "",
+        "protected": false
+      },
+      "parent": 0,
+      "menu_order": 0,
+      "featured_media": 0,
+      "yoast_head_json": {
+        "title": "About Spoonful | Simple Home Cooking",
+        "description": "Spoonful is a home cooking blog with simple, tested recipes for breakfast, lunch and dessert. Meet the cook behind the recipes.",
+        "robots": {
+          "index": "index",
+          "follow": "follow",
+          "max-snippet": "max-snippet:-1",
+          "max-image-preview": "max-image-preview:large",
+          "max-video-preview": "max-video-preview:-1"
+        },
+        "canonical": "http://spoonful.local/about/",
+        "og_locale": "en_US",
+        "og_type": "website",
+        "og_title": "About Spoonful | Simple Home Cooking",
+        "og_description": "Spoonful is a home cooking blog with simple, tested recipes for breakfast, lunch and dessert. Meet the cook behind the recipes.",
+        "og_url": "http://spoonful.local/about/",
+        "og_site_name": "Spoonful",
+        "twitter_card": "summary_large_image",
+        "schema": {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@type": "WebPage",
+              "@id": "http://spoonful.local/about/",
+              "url": "http://spoonful.local/about/",
+              "name": "About Spoonful | Simple Home Cooking",
+              "isPartOf": {
+                "@id": "http://spoonful.local/#website"
+              },
+              "description": "Spoonful is a home cooking blog with simple, tested recipes for breakfast, lunch and dessert. Meet the cook behind the recipes.",
+              "breadcrumb": {
+                "@id": "http://spoonful.local/about/#breadcrumb"
+              },
+              "inLanguage": "en-US"
+            },
+            {
+              "@type": "BreadcrumbList",
+              "@id": "http://spoonful.local/about/#breadcrumb",
+              "itemListElement": [
+                {
+                  "@type": "ListItem",
+                  "position": 1,
+                  "name": "Home",
+                  "item": "http://spoonful.local/"
+                },
+                {
+                  "@type": "ListItem",
+                  "position": 2,
+                  "name": "About"
+                }
+              ]
+            },
+            {
+              "@type": "WebSite",
+              "@id": "http://spoonful.local/#website",
+              "url": "http://spoonful.local/",
+              "name": "Spoonful",
+              "description": "Simple home cooking, one spoonful at a time",
+              "inLanguage": "en-US"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": 302,
+      "date": "2026-10-01T09:00:00",
+      "modified": "2026-10-01T09:00:00",
+      "slug": "contact",
+      "status": "publish",
+      "type": "page",
+      "link": "http://spoonful.local/contact/",
+      "title": {
+        "rendered": "Contact"
+      },
+      "content": {
+        "rendered": "<p>Questions about a recipe, a request for something new, or an idea for a collaboration? Send us a message using the form below and we will reply within two working days.</p><div class=\"wpcf7 no-js\" id=\"wpcf7-f5-p302-o1\" lang=\"en-US\" dir=\"ltr\">\n<div class=\"screen-reader-response\"><p role=\"status\" aria-live=\"polite\" aria-atomic=\"true\"></p> <ul></ul></div>\n<form action=\"/contact/#wpcf7-f5-p302-o1\" method=\"post\" class=\"wpcf7-form init\" novalidate=\"novalidate\" data-status=\"init\">\n<p><label> Your name<br /><span class=\"wpcf7-form-control-wrap\" data-name=\"your-name\"><input size=\"40\" class=\"wpcf7-form-control wpcf7-text\" type=\"text\" name=\"your-name\" /></span></label></p>\n<p><input class=\"wpcf7-form-control wpcf7-submit\" type=\"submit\" value=\"Submit\" /></p>\n</form>\n</div>",
+        "protected": false
+      },
+      "excerpt": {
+        "rendered": "",
+        "protected": false
+      },
+      "parent": 0,
+      "menu_order": 0,
+      "featured_media": 0,
+      "yoast_head_json": {
+        "title": "Contact Spoonful",
+        "description": "Questions, recipe requests or collaborations? Send the Spoonful team a message and we will reply within two working days.",
+        "robots": {
+          "index": "index",
+          "follow": "follow",
+          "max-snippet": "max-snippet:-1",
+          "max-image-preview": "max-image-preview:large",
+          "max-video-preview": "max-video-preview:-1"
+        },
+        "canonical": "http://spoonful.local/contact/",
+        "og_locale": "en_US",
+        "og_type": "website",
+        "og_title": "Contact Spoonful",
+        "og_description": "Questions, recipe requests or collaborations? Send the Spoonful team a message and we will reply within two working days.",
+        "og_url": "http://spoonful.local/contact/",
+        "og_site_name": "Spoonful",
+        "twitter_card": "summary_large_image",
+        "schema": {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@type": "WebPage",
+              "@id": "http://spoonful.local/contact/",
+              "url": "http://spoonful.local/contact/",
+              "name": "Contact Spoonful",
+              "isPartOf": {
+                "@id": "http://spoonful.local/#website"
+              },
+              "description": "Questions, recipe requests or collaborations? Send the Spoonful team a message and we will reply within two working days.",
+              "breadcrumb": {
+                "@id": "http://spoonful.local/contact/#breadcrumb"
+              },
+              "inLanguage": "en-US"
+            },
+            {
+              "@type": "BreadcrumbList",
+              "@id": "http://spoonful.local/contact/#breadcrumb",
+              "itemListElement": [
+                {
+                  "@type": "ListItem",
+                  "position": 1,
+                  "name": "Home",
+                  "item": "http://spoonful.local/"
+                },
+                {
+                  "@type": "ListItem",
+                  "position": 2,
+                  "name": "Contact"
+                }
+              ]
+            },
+            {
+              "@type": "WebSite",
+              "@id": "http://spoonful.local/#website",
+              "url": "http://spoonful.local/",
+              "name": "Spoonful",
+              "description": "Simple home cooking, one spoonful at a time",
+              "inLanguage": "en-US"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": 303,
+      "date": "2026-10-01T09:00:00",
+      "modified": "2026-10-01T09:00:00",
+      "slug": "privacy",
+      "status": "publish",
+      "type": "page",
+      "link": "http://spoonful.local/privacy/",
+      "title": {
+        "rendered": "Privacy Policy"
+      },
+      "content": {
+        "rendered": "<p>This privacy policy explains what information Spoonful collects and how we use it.</p><h2>Information we collect</h2><p>When you send a message through our contact form, we collect your name, email address and message so we can reply to you. We do not sell or share this information.</p><h2>Cookies</h2><p>This site does not use advertising cookies. Our hosting provider may collect anonymous technical logs, such as IP address and browser type, to keep the site secure.</p><h2>Your rights</h2><p>You can ask us to see or delete any message you sent us. Use the <a href=\"/contact/\">contact page</a> to make a request.</p><h2>Changes</h2><p>We may update this policy from time to time. The latest version will always be on this page.</p>",
+        "protected": false
+      },
+      "excerpt": {
+        "rendered": "",
+        "protected": false
+      },
+      "parent": 0,
+      "menu_order": 0,
+      "featured_media": 0,
+      "yoast_head_json": {
+        "title": "Privacy Policy | Spoonful",
+        "description": "How Spoonful collects, uses and protects your information, including contact form messages and cookies.",
+        "robots": {
+          "index": "index",
+          "follow": "follow",
+          "max-snippet": "max-snippet:-1",
+          "max-image-preview": "max-image-preview:large",
+          "max-video-preview": "max-video-preview:-1"
+        },
+        "canonical": "http://spoonful.local/privacy/",
+        "og_locale": "en_US",
+        "og_type": "website",
+        "og_title": "Privacy Policy | Spoonful",
+        "og_description": "How Spoonful collects, uses and protects your information, including contact form messages and cookies.",
+        "og_url": "http://spoonful.local/privacy/",
+        "og_site_name": "Spoonful",
+        "twitter_card": "summary_large_image",
+        "schema": {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@type": "WebPage",
+              "@id": "http://spoonful.local/privacy/",
+              "url": "http://spoonful.local/privacy/",
+              "name": "Privacy Policy | Spoonful",
+              "isPartOf": {
+                "@id": "http://spoonful.local/#website"
+              },
+              "description": "How Spoonful collects, uses and protects your information, including contact form messages and cookies.",
+              "breadcrumb": {
+                "@id": "http://spoonful.local/privacy/#breadcrumb"
+              },
+              "inLanguage": "en-US"
+            },
+            {
+              "@type": "BreadcrumbList",
+              "@id": "http://spoonful.local/privacy/#breadcrumb",
+              "itemListElement": [
+                {
+                  "@type": "ListItem",
+                  "position": 1,
+                  "name": "Home",
+                  "item": "http://spoonful.local/"
+                },
+                {
+                  "@type": "ListItem",
+                  "position": 2,
+                  "name": "Privacy Policy"
+                }
+              ]
+            },
+            {
+              "@type": "WebSite",
+              "@id": "http://spoonful.local/#website",
+              "url": "http://spoonful.local/",
+              "name": "Spoonful",
+              "description": "Simple home cooking, one spoonful at a time",
+              "inLanguage": "en-US"
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "categories": [
+    {
+      "id": 2,
+      "count": 4,
+      "description": "Easy mornings: pancakes, eggs, oats and toast.",
+      "link": "http://spoonful.local/category/breakfast/",
+      "name": "Breakfast",
+      "slug": "breakfast",
+      "taxonomy": "category",
+      "parent": 0,
+      "yoast_head_json": {
+        "title": "Breakfast Recipes | Spoonful",
+        "description": "Quick and easy breakfast recipes, from fluffy pancakes to masala omelettes, ready in 30 minutes or less.",
+        "robots": {
+          "index": "index",
+          "follow": "follow",
+          "max-snippet": "max-snippet:-1",
+          "max-image-preview": "max-image-preview:large",
+          "max-video-preview": "max-video-preview:-1"
+        },
+        "canonical": "http://spoonful.local/category/breakfast/",
+        "og_locale": "en_US",
+        "og_type": "website",
+        "og_title": "Breakfast Recipes | Spoonful",
+        "og_description": "Quick and easy breakfast recipes, from fluffy pancakes to masala omelettes, ready in 30 minutes or less.",
+        "og_url": "http://spoonful.local/category/breakfast/",
+        "og_site_name": "Spoonful",
+        "twitter_card": "summary_large_image",
+        "schema": {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@type": "WebPage",
+              "@id": "http://spoonful.local/category/breakfast/",
+              "url": "http://spoonful.local/category/breakfast/",
+              "name": "Breakfast Recipes | Spoonful",
+              "isPartOf": {
+                "@id": "http://spoonful.local/#website"
+              },
+              "description": "Quick and easy breakfast recipes, from fluffy pancakes to masala omelettes, ready in 30 minutes or less.",
+              "breadcrumb": {
+                "@id": "http://spoonful.local/category/breakfast/#breadcrumb"
+              },
+              "inLanguage": "en-US"
+            },
+            {
+              "@type": "BreadcrumbList",
+              "@id": "http://spoonful.local/category/breakfast/#breadcrumb",
+              "itemListElement": [
+                {
+                  "@type": "ListItem",
+                  "position": 1,
+                  "name": "Home",
+                  "item": "http://spoonful.local/"
+                },
+                {
+                  "@type": "ListItem",
+                  "position": 2,
+                  "name": "Breakfast"
+                }
+              ]
+            },
+            {
+              "@type": "WebSite",
+              "@id": "http://spoonful.local/#website",
+              "url": "http://spoonful.local/",
+              "name": "Spoonful",
+              "description": "Simple home cooking, one spoonful at a time",
+              "inLanguage": "en-US"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": 3,
+      "count": 4,
+      "description": "Filling lunches for home, office and school.",
+      "link": "http://spoonful.local/category/lunch/",
+      "name": "Lunch",
+      "slug": "lunch",
+      "taxonomy": "category",
+      "parent": 0,
+      "yoast_head_json": {
+        "title": "Lunch Recipes | Spoonful",
+        "description": "Filling lunch recipes: soups, salads, wraps and one-pot rice dishes that pack well and taste great.",
+        "robots": {
+          "index": "index",
+          "follow": "follow",
+          "max-snippet": "max-snippet:-1",
+          "max-image-preview": "max-image-preview:large",
+          "max-video-preview": "max-video-preview:-1"
+        },
+        "canonical": "http://spoonful.local/category/lunch/",
+        "og_locale": "en_US",
+        "og_type": "website",
+        "og_title": "Lunch Recipes | Spoonful",
+        "og_description": "Filling lunch recipes: soups, salads, wraps and one-pot rice dishes that pack well and taste great.",
+        "og_url": "http://spoonful.local/category/lunch/",
+        "og_site_name": "Spoonful",
+        "twitter_card": "summary_large_image",
+        "schema": {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@type": "WebPage",
+              "@id": "http://spoonful.local/category/lunch/",
+              "url": "http://spoonful.local/category/lunch/",
+              "name": "Lunch Recipes | Spoonful",
+              "isPartOf": {
+                "@id": "http://spoonful.local/#website"
+              },
+              "description": "Filling lunch recipes: soups, salads, wraps and one-pot rice dishes that pack well and taste great.",
+              "breadcrumb": {
+                "@id": "http://spoonful.local/category/lunch/#breadcrumb"
+              },
+              "inLanguage": "en-US"
+            },
+            {
+              "@type": "BreadcrumbList",
+              "@id": "http://spoonful.local/category/lunch/#breadcrumb",
+              "itemListElement": [
+                {
+                  "@type": "ListItem",
+                  "position": 1,
+                  "name": "Home",
+                  "item": "http://spoonful.local/"
+                },
+                {
+                  "@type": "ListItem",
+                  "position": 2,
+                  "name": "Lunch"
+                }
+              ]
+            },
+            {
+              "@type": "WebSite",
+              "@id": "http://spoonful.local/#website",
+              "url": "http://spoonful.local/",
+              "name": "Spoonful",
+              "description": "Simple home cooking, one spoonful at a time",
+              "inLanguage": "en-US"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": 4,
+      "count": 4,
+      "description": "Sweet treats, from no-bake bars to classic brownies.",
+      "link": "http://spoonful.local/category/desserts/",
+      "name": "Desserts",
+      "slug": "desserts",
+      "taxonomy": "category",
+      "parent": 0,
+      "yoast_head_json": {
+        "title": "Dessert Recipes | Spoonful",
+        "description": "Sweet dessert recipes for every skill level, from no-bake cheesecake bars to classic gulab jamun.",
+        "robots": {
+          "index": "index",
+          "follow": "follow",
+          "max-snippet": "max-snippet:-1",
+          "max-image-preview": "max-image-preview:large",
+          "max-video-preview": "max-video-preview:-1"
+        },
+        "canonical": "http://spoonful.local/category/desserts/",
+        "og_locale": "en_US",
+        "og_type": "website",
+        "og_title": "Dessert Recipes | Spoonful",
+        "og_description": "Sweet dessert recipes for every skill level, from no-bake cheesecake bars to classic gulab jamun.",
+        "og_url": "http://spoonful.local/category/desserts/",
+        "og_site_name": "Spoonful",
+        "twitter_card": "summary_large_image",
+        "schema": {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@type": "WebPage",
+              "@id": "http://spoonful.local/category/desserts/",
+              "url": "http://spoonful.local/category/desserts/",
+              "name": "Dessert Recipes | Spoonful",
+              "isPartOf": {
+                "@id": "http://spoonful.local/#website"
+              },
+              "description": "Sweet dessert recipes for every skill level, from no-bake cheesecake bars to classic gulab jamun.",
+              "breadcrumb": {
+                "@id": "http://spoonful.local/category/desserts/#breadcrumb"
+              },
+              "inLanguage": "en-US"
+            },
+            {
+              "@type": "BreadcrumbList",
+              "@id": "http://spoonful.local/category/desserts/#breadcrumb",
+              "itemListElement": [
+                {
+                  "@type": "ListItem",
+                  "position": 1,
+                  "name": "Home",
+                  "item": "http://spoonful.local/"
+                },
+                {
+                  "@type": "ListItem",
+                  "position": 2,
+                  "name": "Desserts"
+                }
+              ]
+            },
+            {
+              "@type": "WebSite",
+              "@id": "http://spoonful.local/#website",
+              "url": "http://spoonful.local/",
+              "name": "Spoonful",
+              "description": "Simple home cooking, one spoonful at a time",
+              "inLanguage": "en-US"
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "tags": [
+    {
+      "id": 10,
+      "count": 8,
+      "description": "",
+      "link": "http://spoonful.local/tag/vegetarian/",
+      "name": "Vegetarian",
+      "slug": "vegetarian",
+      "taxonomy": "post_tag",
+      "parent": 0,
+      "yoast_head_json": {
+        "title": "Vegetarian Archives | Spoonful",
+        "description": "Vegetarian recipes on Spoonful.",
+        "robots": {
+          "index": "index",
+          "follow": "follow",
+          "max-snippet": "max-snippet:-1",
+          "max-image-preview": "max-image-preview:large",
+          "max-video-preview": "max-video-preview:-1"
+        },
+        "canonical": "http://spoonful.local/tag/vegetarian/",
+        "og_locale": "en_US",
+        "og_type": "website",
+        "og_title": "Vegetarian Archives | Spoonful",
+        "og_description": "Vegetarian recipes on Spoonful.",
+        "og_url": "http://spoonful.local/tag/vegetarian/",
+        "og_site_name": "Spoonful",
+        "twitter_card": "summary_large_image",
+        "schema": {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@type": "WebPage",
+              "@id": "http://spoonful.local/tag/vegetarian/",
+              "url": "http://spoonful.local/tag/vegetarian/",
+              "name": "Vegetarian Archives | Spoonful",
+              "isPartOf": {
+                "@id": "http://spoonful.local/#website"
+              },
+              "description": "Vegetarian recipes on Spoonful.",
+              "breadcrumb": {
+                "@id": "http://spoonful.local/tag/vegetarian/#breadcrumb"
+              },
+              "inLanguage": "en-US"
+            },
+            {
+              "@type": "BreadcrumbList",
+              "@id": "http://spoonful.local/tag/vegetarian/#breadcrumb",
+              "itemListElement": [
+                {
+                  "@type": "ListItem",
+                  "position": 1,
+                  "name": "Home",
+                  "item": "http://spoonful.local/"
+                },
+                {
+                  "@type": "ListItem",
+                  "position": 2,
+                  "name": "Vegetarian"
+                }
+              ]
+            },
+            {
+              "@type": "WebSite",
+              "@id": "http://spoonful.local/#website",
+              "url": "http://spoonful.local/",
+              "name": "Spoonful",
+              "description": "Simple home cooking, one spoonful at a time",
+              "inLanguage": "en-US"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": 11,
+      "count": 4,
+      "description": "",
+      "link": "http://spoonful.local/tag/quick/",
+      "name": "Quick",
+      "slug": "quick",
+      "taxonomy": "post_tag",
+      "parent": 0,
+      "yoast_head_json": {
+        "title": "Quick Archives | Spoonful",
+        "description": "Quick recipes on Spoonful.",
+        "robots": {
+          "index": "index",
+          "follow": "follow",
+          "max-snippet": "max-snippet:-1",
+          "max-image-preview": "max-image-preview:large",
+          "max-video-preview": "max-video-preview:-1"
+        },
+        "canonical": "http://spoonful.local/tag/quick/",
+        "og_locale": "en_US",
+        "og_type": "website",
+        "og_title": "Quick Archives | Spoonful",
+        "og_description": "Quick recipes on Spoonful.",
+        "og_url": "http://spoonful.local/tag/quick/",
+        "og_site_name": "Spoonful",
+        "twitter_card": "summary_large_image",
+        "schema": {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@type": "WebPage",
+              "@id": "http://spoonful.local/tag/quick/",
+              "url": "http://spoonful.local/tag/quick/",
+              "name": "Quick Archives | Spoonful",
+              "isPartOf": {
+                "@id": "http://spoonful.local/#website"
+              },
+              "description": "Quick recipes on Spoonful.",
+              "breadcrumb": {
+                "@id": "http://spoonful.local/tag/quick/#breadcrumb"
+              },
+              "inLanguage": "en-US"
+            },
+            {
+              "@type": "BreadcrumbList",
+              "@id": "http://spoonful.local/tag/quick/#breadcrumb",
+              "itemListElement": [
+                {
+                  "@type": "ListItem",
+                  "position": 1,
+                  "name": "Home",
+                  "item": "http://spoonful.local/"
+                },
+                {
+                  "@type": "ListItem",
+                  "position": 2,
+                  "name": "Quick"
+                }
+              ]
+            },
+            {
+              "@type": "WebSite",
+              "@id": "http://spoonful.local/#website",
+              "url": "http://spoonful.local/",
+              "name": "Spoonful",
+              "description": "Simple home cooking, one spoonful at a time",
+              "inLanguage": "en-US"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": 12,
+      "count": 3,
+      "description": "",
+      "link": "http://spoonful.local/tag/healthy/",
+      "name": "Healthy",
+      "slug": "healthy",
+      "taxonomy": "post_tag",
+      "parent": 0,
+      "yoast_head_json": {
+        "title": "Healthy Archives | Spoonful",
+        "description": "Healthy recipes on Spoonful.",
+        "robots": {
+          "index": "index",
+          "follow": "follow",
+          "max-snippet": "max-snippet:-1",
+          "max-image-preview": "max-image-preview:large",
+          "max-video-preview": "max-video-preview:-1"
+        },
+        "canonical": "http://spoonful.local/tag/healthy/",
+        "og_locale": "en_US",
+        "og_type": "website",
+        "og_title": "Healthy Archives | Spoonful",
+        "og_description": "Healthy recipes on Spoonful.",
+        "og_url": "http://spoonful.local/tag/healthy/",
+        "og_site_name": "Spoonful",
+        "twitter_card": "summary_large_image",
+        "schema": {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@type": "WebPage",
+              "@id": "http://spoonful.local/tag/healthy/",
+              "url": "http://spoonful.local/tag/healthy/",
+              "name": "Healthy Archives | Spoonful",
+              "isPartOf": {
+                "@id": "http://spoonful.local/#website"
+              },
+              "description": "Healthy recipes on Spoonful.",
+              "breadcrumb": {
+                "@id": "http://spoonful.local/tag/healthy/#breadcrumb"
+              },
+              "inLanguage": "en-US"
+            },
+            {
+              "@type": "BreadcrumbList",
+              "@id": "http://spoonful.local/tag/healthy/#breadcrumb",
+              "itemListElement": [
+                {
+                  "@type": "ListItem",
+                  "position": 1,
+                  "name": "Home",
+                  "item": "http://spoonful.local/"
+                },
+                {
+                  "@type": "ListItem",
+                  "position": 2,
+                  "name": "Healthy"
+                }
+              ]
+            },
+            {
+              "@type": "WebSite",
+              "@id": "http://spoonful.local/#website",
+              "url": "http://spoonful.local/",
+              "name": "Spoonful",
+              "description": "Simple home cooking, one spoonful at a time",
+              "inLanguage": "en-US"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": 13,
+      "count": 5,
+      "description": "",
+      "link": "http://spoonful.local/tag/indian/",
+      "name": "Indian",
+      "slug": "indian",
+      "taxonomy": "post_tag",
+      "parent": 0,
+      "yoast_head_json": {
+        "title": "Indian Archives | Spoonful",
+        "description": "Indian recipes on Spoonful.",
+        "robots": {
+          "index": "index",
+          "follow": "follow",
+          "max-snippet": "max-snippet:-1",
+          "max-image-preview": "max-image-preview:large",
+          "max-video-preview": "max-video-preview:-1"
+        },
+        "canonical": "http://spoonful.local/tag/indian/",
+        "og_locale": "en_US",
+        "og_type": "website",
+        "og_title": "Indian Archives | Spoonful",
+        "og_description": "Indian recipes on Spoonful.",
+        "og_url": "http://spoonful.local/tag/indian/",
+        "og_site_name": "Spoonful",
+        "twitter_card": "summary_large_image",
+        "schema": {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@type": "WebPage",
+              "@id": "http://spoonful.local/tag/indian/",
+              "url": "http://spoonful.local/tag/indian/",
+              "name": "Indian Archives | Spoonful",
+              "isPartOf": {
+                "@id": "http://spoonful.local/#website"
+              },
+              "description": "Indian recipes on Spoonful.",
+              "breadcrumb": {
+                "@id": "http://spoonful.local/tag/indian/#breadcrumb"
+              },
+              "inLanguage": "en-US"
+            },
+            {
+              "@type": "BreadcrumbList",
+              "@id": "http://spoonful.local/tag/indian/#breadcrumb",
+              "itemListElement": [
+                {
+                  "@type": "ListItem",
+                  "position": 1,
+                  "name": "Home",
+                  "item": "http://spoonful.local/"
+                },
+                {
+                  "@type": "ListItem",
+                  "position": 2,
+                  "name": "Indian"
+                }
+              ]
+            },
+            {
+              "@type": "WebSite",
+              "@id": "http://spoonful.local/#website",
+              "url": "http://spoonful.local/",
+              "name": "Spoonful",
+              "description": "Simple home cooking, one spoonful at a time",
+              "inLanguage": "en-US"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": 14,
+      "count": 5,
+      "description": "",
+      "link": "http://spoonful.local/tag/make-ahead/",
+      "name": "Make Ahead",
+      "slug": "make-ahead",
+      "taxonomy": "post_tag",
+      "parent": 0,
+      "yoast_head_json": {
+        "title": "Make Ahead Archives | Spoonful",
+        "description": "Make Ahead recipes on Spoonful.",
+        "robots": {
+          "index": "index",
+          "follow": "follow",
+          "max-snippet": "max-snippet:-1",
+          "max-image-preview": "max-image-preview:large",
+          "max-video-preview": "max-video-preview:-1"
+        },
+        "canonical": "http://spoonful.local/tag/make-ahead/",
+        "og_locale": "en_US",
+        "og_type": "website",
+        "og_title": "Make Ahead Archives | Spoonful",
+        "og_description": "Make Ahead recipes on Spoonful.",
+        "og_url": "http://spoonful.local/tag/make-ahead/",
+        "og_site_name": "Spoonful",
+        "twitter_card": "summary_large_image",
+        "schema": {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@type": "WebPage",
+              "@id": "http://spoonful.local/tag/make-ahead/",
+              "url": "http://spoonful.local/tag/make-ahead/",
+              "name": "Make Ahead Archives | Spoonful",
+              "isPartOf": {
+                "@id": "http://spoonful.local/#website"
+              },
+              "description": "Make Ahead recipes on Spoonful.",
+              "breadcrumb": {
+                "@id": "http://spoonful.local/tag/make-ahead/#breadcrumb"
+              },
+              "inLanguage": "en-US"
+            },
+            {
+              "@type": "BreadcrumbList",
+              "@id": "http://spoonful.local/tag/make-ahead/#breadcrumb",
+              "itemListElement": [
+                {
+                  "@type": "ListItem",
+                  "position": 1,
+                  "name": "Home",
+                  "item": "http://spoonful.local/"
+                },
+                {
+                  "@type": "ListItem",
+                  "position": 2,
+                  "name": "Make Ahead"
+                }
+              ]
+            },
+            {
+              "@type": "WebSite",
+              "@id": "http://spoonful.local/#website",
+              "url": "http://spoonful.local/",
+              "name": "Spoonful",
+              "description": "Simple home cooking, one spoonful at a time",
+              "inLanguage": "en-US"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": 15,
+      "count": 4,
+      "description": "",
+      "link": "http://spoonful.local/tag/kid-friendly/",
+      "name": "Kid Friendly",
+      "slug": "kid-friendly",
+      "taxonomy": "post_tag",
+      "parent": 0,
+      "yoast_head_json": {
+        "title": "Kid Friendly Archives | Spoonful",
+        "description": "Kid Friendly recipes on Spoonful.",
+        "robots": {
+          "index": "index",
+          "follow": "follow",
+          "max-snippet": "max-snippet:-1",
+          "max-image-preview": "max-image-preview:large",
+          "max-video-preview": "max-video-preview:-1"
+        },
+        "canonical": "http://spoonful.local/tag/kid-friendly/",
+        "og_locale": "en_US",
+        "og_type": "website",
+        "og_title": "Kid Friendly Archives | Spoonful",
+        "og_description": "Kid Friendly recipes on Spoonful.",
+        "og_url": "http://spoonful.local/tag/kid-friendly/",
+        "og_site_name": "Spoonful",
+        "twitter_card": "summary_large_image",
+        "schema": {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@type": "WebPage",
+              "@id": "http://spoonful.local/tag/kid-friendly/",
+              "url": "http://spoonful.local/tag/kid-friendly/",
+              "name": "Kid Friendly Archives | Spoonful",
+              "isPartOf": {
+                "@id": "http://spoonful.local/#website"
+              },
+              "description": "Kid Friendly recipes on Spoonful.",
+              "breadcrumb": {
+                "@id": "http://spoonful.local/tag/kid-friendly/#breadcrumb"
+              },
+              "inLanguage": "en-US"
+            },
+            {
+              "@type": "BreadcrumbList",
+              "@id": "http://spoonful.local/tag/kid-friendly/#breadcrumb",
+              "itemListElement": [
+                {
+                  "@type": "ListItem",
+                  "position": 1,
+                  "name": "Home",
+                  "item": "http://spoonful.local/"
+                },
+                {
+                  "@type": "ListItem",
+                  "position": 2,
+                  "name": "Kid Friendly"
+                }
+              ]
+            },
+            {
+              "@type": "WebSite",
+              "@id": "http://spoonful.local/#website",
+              "url": "http://spoonful.local/",
+              "name": "Spoonful",
+              "description": "Simple home cooking, one spoonful at a time",
+              "inLanguage": "en-US"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": 16,
+      "count": 4,
+      "description": "",
+      "link": "http://spoonful.local/tag/no-bake/",
+      "name": "No Bake",
+      "slug": "no-bake",
+      "taxonomy": "post_tag",
+      "parent": 0,
+      "yoast_head_json": {
+        "title": "No Bake Archives | Spoonful",
+        "description": "No Bake recipes on Spoonful.",
+        "robots": {
+          "index": "index",
+          "follow": "follow",
+          "max-snippet": "max-snippet:-1",
+          "max-image-preview": "max-image-preview:large",
+          "max-video-preview": "max-video-preview:-1"
+        },
+        "canonical": "http://spoonful.local/tag/no-bake/",
+        "og_locale": "en_US",
+        "og_type": "website",
+        "og_title": "No Bake Archives | Spoonful",
+        "og_description": "No Bake recipes on Spoonful.",
+        "og_url": "http://spoonful.local/tag/no-bake/",
+        "og_site_name": "Spoonful",
+        "twitter_card": "summary_large_image",
+        "schema": {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@type": "WebPage",
+              "@id": "http://spoonful.local/tag/no-bake/",
+              "url": "http://spoonful.local/tag/no-bake/",
+              "name": "No Bake Archives | Spoonful",
+              "isPartOf": {
+                "@id": "http://spoonful.local/#website"
+              },
+              "description": "No Bake recipes on Spoonful.",
+              "breadcrumb": {
+                "@id": "http://spoonful.local/tag/no-bake/#breadcrumb"
+              },
+              "inLanguage": "en-US"
+            },
+            {
+              "@type": "BreadcrumbList",
+              "@id": "http://spoonful.local/tag/no-bake/#breadcrumb",
+              "itemListElement": [
+                {
+                  "@type": "ListItem",
+                  "position": 1,
+                  "name": "Home",
+                  "item": "http://spoonful.local/"
+                },
+                {
+                  "@type": "ListItem",
+                  "position": 2,
+                  "name": "No Bake"
+                }
+              ]
+            },
+            {
+              "@type": "WebSite",
+              "@id": "http://spoonful.local/#website",
+              "url": "http://spoonful.local/",
+              "name": "Spoonful",
+              "description": "Simple home cooking, one spoonful at a time",
+              "inLanguage": "en-US"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": 17,
+      "count": 3,
+      "description": "",
+      "link": "http://spoonful.local/tag/spicy/",
+      "name": "Spicy",
+      "slug": "spicy",
+      "taxonomy": "post_tag",
+      "parent": 0,
+      "yoast_head_json": {
+        "title": "Spicy Archives | Spoonful",
+        "description": "Spicy recipes on Spoonful.",
+        "robots": {
+          "index": "index",
+          "follow": "follow",
+          "max-snippet": "max-snippet:-1",
+          "max-image-preview": "max-image-preview:large",
+          "max-video-preview": "max-video-preview:-1"
+        },
+        "canonical": "http://spoonful.local/tag/spicy/",
+        "og_locale": "en_US",
+        "og_type": "website",
+        "og_title": "Spicy Archives | Spoonful",
+        "og_description": "Spicy recipes on Spoonful.",
+        "og_url": "http://spoonful.local/tag/spicy/",
+        "og_site_name": "Spoonful",
+        "twitter_card": "summary_large_image",
+        "schema": {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@type": "WebPage",
+              "@id": "http://spoonful.local/tag/spicy/",
+              "url": "http://spoonful.local/tag/spicy/",
+              "name": "Spicy Archives | Spoonful",
+              "isPartOf": {
+                "@id": "http://spoonful.local/#website"
+              },
+              "description": "Spicy recipes on Spoonful.",
+              "breadcrumb": {
+                "@id": "http://spoonful.local/tag/spicy/#breadcrumb"
+              },
+              "inLanguage": "en-US"
+            },
+            {
+              "@type": "BreadcrumbList",
+              "@id": "http://spoonful.local/tag/spicy/#breadcrumb",
+              "itemListElement": [
+                {
+                  "@type": "ListItem",
+                  "position": 1,
+                  "name": "Home",
+                  "item": "http://spoonful.local/"
+                },
+                {
+                  "@type": "ListItem",
+                  "position": 2,
+                  "name": "Spicy"
+                }
+              ]
+            },
+            {
+              "@type": "WebSite",
+              "@id": "http://spoonful.local/#website",
+              "url": "http://spoonful.local/",
+              "name": "Spoonful",
+              "description": "Simple home cooking, one spoonful at a time",
+              "inLanguage": "en-US"
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "media": [
+    {
+      "id": 201,
+      "date": "2026-10-03T08:00:00",
+      "slug": "fluffy-buttermilk-pancakes-image",
+      "type": "attachment",
+      "link": "http://spoonful.local/recipes/fluffy-buttermilk-pancakes/fluffy-buttermilk-pancakes-image/",
+      "title": {
+        "rendered": "Fluffy Buttermilk Pancakes"
+      },
+      "alt_text": "A tall stack of golden buttermilk pancakes with butter and maple syrup",
+      "media_type": "image",
+      "mime_type": "image/jpeg",
+      "media_details": {
+        "width": 1200,
+        "height": 800,
+        "file": "2026/11/fluffy-buttermilk-pancakes.jpg",
+        "sizes": {}
+      },
+      "source_url": "http://spoonful.local/wp-content/uploads/2026/11/fluffy-buttermilk-pancakes.jpg"
+    },
+    {
+      "id": 202,
+      "date": "2026-10-06T08:00:00",
+      "slug": "masala-omelette-image",
+      "type": "attachment",
+      "link": "http://spoonful.local/recipes/masala-omelette/masala-omelette-image/",
+      "title": {
+        "rendered": "Masala Omelette"
+      },
+      "alt_text": "A folded masala omelette with onion, tomato, green chilli and coriander",
+      "media_type": "image",
+      "mime_type": "image/jpeg",
+      "media_details": {
+        "width": 1200,
+        "height": 800,
+        "file": "2026/11/masala-omelette.jpg",
+        "sizes": {}
+      },
+      "source_url": "http://spoonful.local/wp-content/uploads/2026/11/masala-omelette.jpg"
+    },
+    {
+      "id": 203,
+      "date": "2026-10-09T08:00:00",
+      "slug": "overnight-oats-with-berries-image",
+      "type": "attachment",
+      "link": "http://spoonful.local/recipes/overnight-oats-with-berries/overnight-oats-with-berries-image/",
+      "title": {
+        "rendered": "Overnight Oats with Berries"
+      },
+      "alt_text": "A glass jar of overnight oats layered with yoghurt and fresh berries",
+      "media_type": "image",
+      "mime_type": "image/jpeg",
+      "media_details": {
+        "width": 1200,
+        "height": 800,
+        "file": "2026/11/overnight-oats-with-berries.jpg",
+        "sizes": {}
+      },
+      "source_url": "http://spoonful.local/wp-content/uploads/2026/11/overnight-oats-with-berries.jpg"
+    },
+    {
+      "id": 204,
+      "date": "2026-10-12T08:00:00",
+      "slug": "avocado-toast-with-poached-egg-image",
+      "type": "attachment",
+      "link": "http://spoonful.local/recipes/avocado-toast-with-poached-egg/avocado-toast-with-poached-egg-image/",
+      "title": {
+        "rendered": "Avocado Toast with Poached Egg"
+      },
+      "alt_text": "Sourdough toast topped with smashed avocado and a soft poached egg",
+      "media_type": "image",
+      "mime_type": "image/jpeg",
+      "media_details": {
+        "width": 1200,
+        "height": 800,
+        "file": "2026/11/avocado-toast-with-poached-egg.jpg",
+        "sizes": {}
+      },
+      "source_url": "http://spoonful.local/wp-content/uploads/2026/11/avocado-toast-with-poached-egg.jpg"
+    },
+    {
+      "id": 205,
+      "date": "2026-10-15T12:00:00",
+      "slug": "creamy-tomato-basil-soup-image",
+      "type": "attachment",
+      "link": "http://spoonful.local/recipes/creamy-tomato-basil-soup/creamy-tomato-basil-soup-image/",
+      "title": {
+        "rendered": "Creamy Tomato Basil Soup"
+      },
+      "alt_text": "A bowl of creamy tomato basil soup with a swirl of cream and fresh basil",
+      "media_type": "image",
+      "mime_type": "image/jpeg",
+      "media_details": {
+        "width": 1200,
+        "height": 800,
+        "file": "2026/11/creamy-tomato-basil-soup.jpg",
+        "sizes": {}
+      },
+      "source_url": "http://spoonful.local/wp-content/uploads/2026/11/creamy-tomato-basil-soup.jpg"
+    },
+    {
+      "id": 206,
+      "date": "2026-10-18T12:00:00",
+      "slug": "chicken-biryani-image",
+      "type": "attachment",
+      "link": "http://spoonful.local/recipes/chicken-biryani/chicken-biryani-image/",
+      "title": {
+        "rendered": "Chicken Biryani"
+      },
+      "alt_text": "A pot of layered chicken biryani with saffron rice and fried onions",
+      "media_type": "image",
+      "mime_type": "image/jpeg",
+      "media_details": {
+        "width": 1200,
+        "height": 800,
+        "file": "2026/11/chicken-biryani.jpg",
+        "sizes": {}
+      },
+      "source_url": "http://spoonful.local/wp-content/uploads/2026/11/chicken-biryani.jpg"
+    },
+    {
+      "id": 207,
+      "date": "2026-10-21T12:00:00",
+      "slug": "paneer-tikka-wrap-image",
+      "type": "attachment",
+      "link": "http://spoonful.local/recipes/paneer-tikka-wrap/paneer-tikka-wrap-image/",
+      "title": {
+        "rendered": "Paneer Tikka Wrap"
+      },
+      "alt_text": "A paneer tikka wrap cut in half showing charred paneer, onions and mint chutney",
+      "media_type": "image",
+      "mime_type": "image/jpeg",
+      "media_details": {
+        "width": 1200,
+        "height": 800,
+        "file": "2026/11/paneer-tikka-wrap.jpg",
+        "sizes": {}
+      },
+      "source_url": "http://spoonful.local/wp-content/uploads/2026/11/paneer-tikka-wrap.jpg"
+    },
+    {
+      "id": 208,
+      "date": "2026-10-24T12:00:00",
+      "slug": "mediterranean-chickpea-salad-image",
+      "type": "attachment",
+      "link": "http://spoonful.local/recipes/mediterranean-chickpea-salad/mediterranean-chickpea-salad-image/",
+      "title": {
+        "rendered": "Mediterranean Chickpea Salad"
+      },
+      "alt_text": "A bowl of chickpea salad with cucumber, tomato, red onion, olives and feta",
+      "media_type": "image",
+      "mime_type": "image/jpeg",
+      "media_details": {
+        "width": 1200,
+        "height": 800,
+        "file": "2026/11/mediterranean-chickpea-salad.jpg",
+        "sizes": {}
+      },
+      "source_url": "http://spoonful.local/wp-content/uploads/2026/11/mediterranean-chickpea-salad.jpg"
+    },
+    {
+      "id": 209,
+      "date": "2026-10-27T16:00:00",
+      "slug": "classic-chocolate-brownies-image",
+      "type": "attachment",
+      "link": "http://spoonful.local/recipes/classic-chocolate-brownies/classic-chocolate-brownies-image/",
+      "title": {
+        "rendered": "Classic Chocolate Brownies"
+      },
+      "alt_text": "Squares of fudgy chocolate brownies with a crackly top",
+      "media_type": "image",
+      "mime_type": "image/jpeg",
+      "media_details": {
+        "width": 1200,
+        "height": 800,
+        "file": "2026/11/classic-chocolate-brownies.jpg",
+        "sizes": {}
+      },
+      "source_url": "http://spoonful.local/wp-content/uploads/2026/11/classic-chocolate-brownies.jpg"
+    },
+    {
+      "id": 210,
+      "date": "2026-10-30T16:00:00",
+      "slug": "mango-lassi-popsicles-image",
+      "type": "attachment",
+      "link": "http://spoonful.local/recipes/mango-lassi-popsicles/mango-lassi-popsicles-image/",
+      "title": {
+        "rendered": "Mango Lassi Popsicles"
+      },
+      "alt_text": "Bright orange mango lassi popsicles on a tray with sliced mango",
+      "media_type": "image",
+      "mime_type": "image/jpeg",
+      "media_details": {
+        "width": 1200,
+        "height": 800,
+        "file": "2026/11/mango-lassi-popsicles.jpg",
+        "sizes": {}
+      },
+      "source_url": "http://spoonful.local/wp-content/uploads/2026/11/mango-lassi-popsicles.jpg"
+    },
+    {
+      "id": 211,
+      "date": "2026-11-02T16:00:00",
+      "slug": "soft-gulab-jamun-image",
+      "type": "attachment",
+      "link": "http://spoonful.local/recipes/soft-gulab-jamun/soft-gulab-jamun-image/",
+      "title": {
+        "rendered": "Soft Gulab Jamun"
+      },
+      "alt_text": "Soft gulab jamun soaking in rose and cardamom sugar syrup",
+      "media_type": "image",
+      "mime_type": "image/jpeg",
+      "media_details": {
+        "width": 1200,
+        "height": 800,
+        "file": "2026/11/soft-gulab-jamun.jpg",
+        "sizes": {}
+      },
+      "source_url": "http://spoonful.local/wp-content/uploads/2026/11/soft-gulab-jamun.jpg"
+    },
+    {
+      "id": 212,
+      "date": "2026-11-05T16:00:00",
+      "slug": "no-bake-lemon-cheesecake-bars-image",
+      "type": "attachment",
+      "link": "http://spoonful.local/recipes/no-bake-lemon-cheesecake-bars/no-bake-lemon-cheesecake-bars-image/",
+      "title": {
+        "rendered": "No-Bake Lemon Cheesecake Bars"
+      },
+      "alt_text": "Creamy lemon cheesecake bars on a biscuit base with lemon zest",
+      "media_type": "image",
+      "mime_type": "image/jpeg",
+      "media_details": {
+        "width": 1200,
+        "height": 800,
+        "file": "2026/11/no-bake-lemon-cheesecake-bars.jpg",
+        "sizes": {}
+      },
+      "source_url": "http://spoonful.local/wp-content/uploads/2026/11/no-bake-lemon-cheesecake-bars.jpg"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+@import "tailwindcss";
+/* Adds the `prose` classes that style raw HTML from WordPress (headings, lists, links). */
+@plugin "@tailwindcss/typography";
+
+/* Design tokens: use them as classes, e.g. bg-cream, text-ink, text-tomato, font-serif */
+@theme {
+  --color-cream: #fff8f0;
+  --color-butter: #fdecd2;
+  --color-ink: #2b2118;
+  --color-muted: #6b5a4c;
+  --color-line: #ecdcc8;
+  --color-tomato: #b8400c;
+  --color-tomato-dark: #8f300a;
+  --color-basil: #3f6b3a;
+
+  --font-sans: var(--font-inter), ui-sans-serif, system-ui, sans-serif;
+  --font-serif: var(--font-fraunces), ui-serif, Georgia, serif;
+}
+
+body {
+  background: var(--color-cream);
+  color: var(--color-ink);
+}
+
+/* Visible keyboard focus everywhere (accessibility). */
+:focus-visible {
+  outline: 3px solid var(--color-tomato);
+  outline-offset: 2px;
+}
